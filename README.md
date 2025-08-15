@@ -6,4 +6,5 @@ Tareas:
 - [x] Máquina shop (Vulnyx).
 - [x] Máquina Basic (Vulnyx).
 - [x] Máquina Experience (Vulnyx).
-- Máquina Infected (Vulnyx).
+- [x] Máquina Infected (Vulnyx).
+- Máquina Mux (Vulnyx).
