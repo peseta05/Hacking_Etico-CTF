@@ -7,4 +7,5 @@ Tareas:
 - [x] Máquina Basic (Vulnyx).
 - [x] Máquina Experience (Vulnyx).
 - [x] Máquina Infected (Vulnyx).
-- Máquina Mux (Vulnyx).
+- [x] Máquina Mux (Vulnyx).
+- Máquina Wicca (Vulnyx).
