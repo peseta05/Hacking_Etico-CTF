@@ -9,3 +9,5 @@ Tareas:
 - [x] Máquina Infected (Vulnyx).
 - [x] Máquina Mux (Vulnyx).
 - Máquina Wicca (Vulnyx).
+
+Tambien puedes acceder a la web haciendo click [aquí](https://unhackeretico-notes.blogspot.com/).
