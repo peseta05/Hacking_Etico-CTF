@@ -8,6 +8,7 @@ Tareas:
 - [x] Máquina Experience (Vulnyx).
 - [x] Máquina Infected (Vulnyx).
 - [x] Máquina Mux (Vulnyx).
-- Máquina Wicca (Vulnyx).
+- [x] Máquina Wicca (Vulnyx).
+- Máquina Zero (Vulnyx).
 
 Tambien puedes acceder a la web haciendo click [aquí](https://unhackeretico-notes.blogspot.com/).
