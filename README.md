@@ -10,6 +10,7 @@ Tareas:
 - [x] Máquina Mux (Vulnyx).
 - [x] Máquina Wicca (Vulnyx).
 - [x] Máquina Zero (Vulnyx).
-- Máquina blogger (Vulnyx).
+- [x] Máquina blogger (Vulnyx).
+- Máquina Diff3r3ntS3c (Vulnyx).
 
 Tambien puedes acceder a la web haciendo click [aquí](https://unhackeretico-notes.blogspot.com/).
