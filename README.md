@@ -2,6 +2,11 @@
 
 Este repositorio Contiene mis soluciones, scripts y notas relacionadas con retos de *CTF* (Capture The Flag). El objetivo es praticar y mejorar habilidades en *Ciberseguridad*, *Hacking Ético* y *Pentesting*.
 
+Tambien puedes acceder a la web haciendo click [aquí](https://unhackeretico-notes.blogspot.com/).
+
+- A continuación os dejo el link a la página [hacktricks](https://book.hacktricks.wiki/es/index.html) página muy recomendable con información sobre las distintas técnicas sobre *Hacking Ético*.
+- A continuación os dejo el link a la página [reverse shell](https://www.revshells.com/) página muy recomendable con información sobre las distintas técnicas sobre el establecimiento de *shells*.
+
 Tareas:
 - [x] [Máquina shop (Vulnyx)](https://unhackeretico-notes.blogspot.com/2025/07/maquina-shop-vulnyx.html).
 - [x] [Máquina Basic (Vulnyx)](https://unhackeretico-notes.blogspot.com/2025/08/maquina-basic-vulnyx.html).
@@ -12,8 +17,3 @@ Tareas:
 - [x] [Máquina Zero (Vulnyx)](https://unhackeretico-notes.blogspot.com/2025/09/maquina-zero-vulnyx.html).
 - [x] [Máquina blogger (Vulnyx)](https://unhackeretico-notes.blogspot.com/2025/09/maquina-blogger-vulnyx.html).
 - Máquina Diff3r3ntS3c (Vulnyx).
-
-Tambien puedes acceder a la web haciendo click [aquí](https://unhackeretico-notes.blogspot.com/).
-
-- A continuación os dejo el link a la página [hacktricks](https://book.hacktricks.wiki/es/index.html) página muy recomendable con información sobre las distintas técnicas sobre *Hacking Ético*.
-- A continuación os dejo el link a la página [reverse shell](https://www.revshells.com/) página muy recomendable con información sobre las distintas técnicas sobre el establecimiento de *shells*.
