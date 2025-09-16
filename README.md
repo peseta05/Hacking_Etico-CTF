@@ -14,3 +14,6 @@ Tareas:
 - Máquina Diff3r3ntS3c (Vulnyx).
 
 Tambien puedes acceder a la web haciendo click [aquí](https://unhackeretico-notes.blogspot.com/).
+
+A continuación os dejo el link a la página [hacktricks](https://book.hacktricks.wiki/es/index.html) página muy recomendable con información sobre las distintas técnicas sobre *Hacking Ético*.
+A continuación os dejo el link a la página [reverse shell] página muy recomendable con información sobre las distintas técnicas sobre el establecimiento de *shells*
