@@ -7,7 +7,7 @@ Tambien puedes acceder a la web haciendo click [aquí](https://unhackeretico-not
 - A continuación os dejo el link a la página [hacktricks](https://book.hacktricks.wiki/es/index.html) página muy recomendable con información sobre las distintas técnicas de ataque sobre *Hacking Ético*.
 - A continuación os dejo el link a la página [reverse shell](https://www.revshells.com/) página muy recomendable sobre las distintas técnicas en el establecimiento de *shells* de diferentes tipos.
 
-Tareas:
+Soluciones *CTF* (Capture The Flag):
 - [x] [Máquina shop (Vulnyx)](https://unhackeretico-notes.blogspot.com/2025/07/maquina-shop-vulnyx.html).
 - [x] [Máquina Basic (Vulnyx)](https://unhackeretico-notes.blogspot.com/2025/08/maquina-basic-vulnyx.html).
 - [x] [Máquina Experience (Vulnyx)](https://unhackeretico-notes.blogspot.com/2025/08/maquina-experience-vulnyx.html).
