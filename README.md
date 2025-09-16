@@ -4,13 +4,13 @@ Este repositorio Contiene mis soluciones, scripts y notas relacionadas con retos
 
 Tareas:
 - [x] [Máquina shop (Vulnyx)](https://unhackeretico-notes.blogspot.com/2025/07/maquina-shop-vulnyx.html).
-- [x] Máquina Basic (Vulnyx).
-- [x] Máquina Experience (Vulnyx).
-- [x] Máquina Infected (Vulnyx).
-- [x] Máquina Mux (Vulnyx).
-- [x] Máquina Wicca (Vulnyx).
-- [x] Máquina Zero (Vulnyx).
-- [x] Máquina blogger (Vulnyx).
+- [x] [Máquina Basic (Vulnyx)](https://unhackeretico-notes.blogspot.com/2025/08/maquina-basic-vulnyx.html).
+- [x] [Máquina Experience (Vulnyx)](https://unhackeretico-notes.blogspot.com/2025/08/maquina-experience-vulnyx.html).
+- [x] [Máquina Infected (Vulnyx)](https://unhackeretico-notes.blogspot.com/2025/08/maquina-infected-vulnyx.html).
+- [x] [Máquina Mux (Vulnyx)](https://unhackeretico-notes.blogspot.com/2025/08/maquina-mux-vulnyx.html).
+- [x] [Máquina Wicca (Vulnyx)](https://unhackeretico-notes.blogspot.com/2025/08/maquina-wicca-vulnyx.html).
+- [x] [Máquina Zero (Vulnyx)](https://unhackeretico-notes.blogspot.com/2025/09/maquina-zero-vulnyx.html).
+- [x] [Máquina blogger (Vulnyx)](https://unhackeretico-notes.blogspot.com/2025/09/maquina-blogger-vulnyx.html).
 - Máquina Diff3r3ntS3c (Vulnyx).
 
 Tambien puedes acceder a la web haciendo click [aquí](https://unhackeretico-notes.blogspot.com/).
