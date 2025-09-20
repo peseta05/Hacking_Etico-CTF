@@ -1,6 +1,6 @@
 **CTF Challenges  & Writeups**
 
-Este repositorio Contiene mis soluciones, scripts y notas relacionadas con retos de *CTF* (Capture The Flag). El objetivo es praticar y mejorar habilidades en *Ciberseguridad*, *Hacking Ético* y *Pentesting*.
+Este repositorio Contiene mis soluciones, scripts y notas relacionadas con retos de *CTF* (Capture The Flag). El objetivo es practicar y mejorar habilidades en *Ciberseguridad*, *Hacking Ético* y *Pentesting*.
 
 Tambien puedes acceder a la web haciendo click [aquí](https://unhackeretico-notes.blogspot.com/).
 
