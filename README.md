@@ -12,8 +12,8 @@ Puedes acceder a la web para ver los contenidos haciendo click [aquí](https://u
 
 Este repositorio Contiene mis soluciones, scripts y notas relacionadas con retos de *CTF* (Capture The Flag). El objetivo es practicar y mejorar habilidades en *Ciberseguridad*, *Hacking Ético* y *Pentesting*.
 
-- A continuación os dejo el link a la página [hacktricks](https://book.hacktricks.wiki/es/index.html) página muy recomendable con información sobre las distintas técnicas de ataque sobre *Hacking Ético*.
-- A continuación os dejo el link a la página [reverse shell](https://www.revshells.com/) página muy recomendable sobre las distintas técnicas en el establecimiento de *shells inversas* de diferentes tipos.
+- A continuación os dejo el link a la página [hacktricks](https://book.hacktricks.wiki/es/index.html), página muy recomendable con información sobre las distintas técnicas de ataque sobre *Hacking Ético*.
+- A continuación os dejo el link a la página [reverse shell](https://www.revshells.com/), página muy recomendable sobre las distintas técnicas en el establecimiento de *shells inversas* de diferentes tipos.
 
 Soluciones *CTF* (Capture The Flag):
 - [x] [Máquina shop (Vulnyx)](https://unhackeretico-notes.blogspot.com/2025/07/maquina-shop-vulnyx.html).
