@@ -1,3 +1,11 @@
+**Bienvenida**
+
+Cuando una persona se quiere introducir en el mundo de la **ciberseguridad** desde el punto de vista **ofensivo**, uno de los principales problemas que suele tener es encontrar la información necesaria para empezar, no por la falta de la misma, sino más bien justo por lo opuesto: *existe un exceso de información que puede provocar frustración por empezar con aspectos demasiado complejos o por no estar estructurada*.
+
+Este repositorio tiene como objetivo que todas aquellas personas que se quieren iniciar en el *"hacking ético"* tengan los recursos necesarios y conozcan la metodología que se debe seguir durante el proceso, se da por hecho que el lector dispone de conocimientos previos de **Informática** y **Redes**, que resultan muy necesarios para este mundo. Por ello, en este blogs se parte del supuesto de que el lector sabe manejar con soltura Sistemas Operativos **Linux** y **Windows** y posee unos conocimientos básicos de **Protocolos de Red**, aunque esto no quiere decir que sea imprescindible conocer hasta el mínimo detalle todos los protocolos ni ser un experto administrador de sistemas. Se sobreentiende que la propia inquietud del lector interesado en la ciberseguridad le animará a profundizar en aquellos aspectos en los que detecte que deberá tener mayores conocimientos.
+
+No dudes en volver de vez en cuando para ver nuevos *contenidos* sobre **ciberseguridad**. Este repositorio se irá actualizando progresivamente a medida que avance y adquiera nuevos conocimientos en el mundo del *hacking ético*. Mi objetivo es compartir lo que voy aprendiendo, desde lo mas básico hasta técnicas mas avanzadas.
+
 **CTF Challenges  & Writeups**
 
 Este repositorio Contiene mis soluciones, scripts y notas relacionadas con retos de *CTF* (Capture The Flag). El objetivo es practicar y mejorar habilidades en *Ciberseguridad*, *Hacking Ético* y *Pentesting*.
