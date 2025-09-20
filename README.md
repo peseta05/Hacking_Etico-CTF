@@ -16,4 +16,5 @@ Soluciones *CTF* (Capture The Flag):
 - [x] [Máquina Wicca (Vulnyx)](https://unhackeretico-notes.blogspot.com/2025/08/maquina-wicca-vulnyx.html).
 - [x] [Máquina Zero (Vulnyx)](https://unhackeretico-notes.blogspot.com/2025/09/maquina-zero-vulnyx.html).
 - [x] [Máquina blogger (Vulnyx)](https://unhackeretico-notes.blogspot.com/2025/09/maquina-blogger-vulnyx.html).
-- Máquina Diff3r3ntS3c (Vulnyx).
+- [x] [Máquina Diff3r3ntS3c (Vulnyx)](https://unhackeretico-notes.blogspot.com/2025/09/maquina-diff3r3nts3c-vulnyx.html).
+- Máquina Eternal (Vulnyx).
