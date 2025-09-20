@@ -6,11 +6,11 @@ Este repositorio tiene como objetivo que todas aquellas personas que se quieren 
 
 No dudes en volver de vez en cuando para ver nuevos *contenidos* sobre **ciberseguridad**. Este repositorio se irá actualizando progresivamente a medida que avance y adquiera nuevos conocimientos en el mundo del *hacking ético*. Mi objetivo es compartir lo que voy aprendiendo, desde lo mas básico hasta técnicas mas avanzadas.
 
+Puedes acceder a la web haciendo click [aquí](https://unhackeretico-notes.blogspot.com/).
+
 **CTF Challenges  & Writeups**
 
 Este repositorio Contiene mis soluciones, scripts y notas relacionadas con retos de *CTF* (Capture The Flag). El objetivo es practicar y mejorar habilidades en *Ciberseguridad*, *Hacking Ético* y *Pentesting*.
-
-Tambien puedes acceder a la web haciendo click [aquí](https://unhackeretico-notes.blogspot.com/).
 
 - A continuación os dejo el link a la página [hacktricks](https://book.hacktricks.wiki/es/index.html) página muy recomendable con información sobre las distintas técnicas de ataque sobre *Hacking Ético*.
 - A continuación os dejo el link a la página [reverse shell](https://www.revshells.com/) página muy recomendable sobre las distintas técnicas en el establecimiento de *shells inversas* de diferentes tipos.
