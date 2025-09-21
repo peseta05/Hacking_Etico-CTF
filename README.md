@@ -20,6 +20,13 @@ Puedes acceder a la web para ver los contenidos haciendo click [aquí](https://u
 
 Si está empezando en el *hacking ético* como imagino, mi consejo es que no se obsesione con esto, el aprendizaje es largo y lleva su tiempo adquirir los conocimientos suficientes. Tómese su tiempo para ganar experiencia.
 
+**Distribuciones para Pentesting**
+
+- **[Kali Linux](https://www.kali.org/):** Distribucioón de seguridad basada en Debian desarrollada por la empresa *Offensive Security*. Dispone de numerosas opciones de instalación. Tambien dispones de un enorme repositorio de paquetes donde se incluyen nuevas herramientas con cada nueva versión, Lo que facilita la instalación automatizada de estas.
+- **[ParrotOS](https://parrotsec.org/):** Distribucion de seguridad basada en Debian. En 2022 comensó una alianza con HackTheBox para mejorar su desarrollo e incluirla en la plataforma a través de la web.
+- **[BlackArch](https://blackarch.org/):** Distribución de seguridad basada en Arch Linux con mas de 2800 herramientas en sus repositorios.
+- **[CommandoVM](https://github.com/mandiant/commando-vm):** Es un cojunto de herramientas para convertir el sistemas operativo Windows en una distribución de seguridad ofensiva. Creada por la empresa "*Mandiant*".
+
 **Recursos**
 
 - A continuación os dejo el link a la página [Hacktricks](https://book.hacktricks.wiki/es/index.html), página muy recomendable que recopila técnicas de explotación, detección de vulnerabilidades, escalada de privilegios, fallos de configuración, bastionado de servicios y un largo etcétera.
