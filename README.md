@@ -69,5 +69,3 @@ Toda la información publicada está destinada a promover *buenas prácticas de 
 **El autor de este repositorio no se hace responsable del mal uso de los contenidos aquí compartidos**. *Se recuerda que el acceso no autorizado a sistemas informáticos está penado por la ley*.  
 
 **Utiliza siempre el conocimiento con responsabilidad**. La mejor defensa comienza con la educación.
-
-<p style="text-align: center> ¡¡¡Happy Hacking!!! </p>
