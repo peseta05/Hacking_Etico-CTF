@@ -22,7 +22,8 @@ Si está empezando en el *hacking ético* como imagino, mi consejo es que no se 
 
 **Recursos**
 
-- A continuación os dejo el link a la página [Hacktricks](https://book.hacktricks.wiki/es/index.html), página muy recomendable con información sobre las distintas técnicas de ataque sobre *Hacking Ético*.
+- A continuación os dejo el link a la página [Hacktricks](https://book.hacktricks.wiki/es/index.html), página muy recomendable que recopila técnicas de explotación, detección de vulnerabilidades, escalada de privilegios, fallos de configuración, bastionado de servicios y un largo etcétera.
+- A continuación os dejo el link a la página [Hacktricks Cloud](https://cloud.hacktricks.wiki/es/index.html), página muy recomendable orientada a técnicas de pentesting en servicios en la nube.
 - A continuación os dejo el link a la página [PortSwigger](https://portswigger.net/web-security/all-materials), academia gratuita en el que se explican las vulnerabilidades tipo web más comunes. Además, dispone de varios laboratorios con ejercicios de distintos niveles para practicar con algunas de ellas.
 - A continuación os dejo el link a la página [RevShells](https://www.revshells.com/), página muy recomendable sobre las distintas técnicas en el lanzamiento de *shells reversas* de diferentes tipos.
 - A continuación os dejo el link a la página [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings), página muy recomendable sobre las distintas técnicas en el lanzamiento de *shells reversas* de diferentes tipos, explorar otros metodos y aplicar opciones avanzadas.
