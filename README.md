@@ -35,7 +35,7 @@ Si está empezando en el *hacking ético* como imagino, mi consejo es que no se 
 - A continuación os dejo el link a la página [RevShells](https://www.revshells.com/), página muy recomendable sobre las distintas técnicas en el lanzamiento de *shells reversas* de diferentes tipos.
 - A continuación os dejo el link a la página [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings), página muy recomendable sobre las distintas técnicas en el lanzamiento de *shells reversas* de diferentes tipos, explorar otros metodos y aplicar opciones avanzadas.
 - A continuación os dejo el link a la pagina [GTFOBins](https://gtfobins.github.io/), pagina muy recomendable de binarios de Unix que pueden usarse para eludir las restricciones de seguridad locales en sistemas mal configurados.
-- A continuación os dejo el link a la pagina [LOLBAS](https://lolbas-project.github.io/), pagina muy recomendable en la que se describe como se pueden aprovechar las herramientas presentes por defecto en Windows para obtenre información local de este.
+- A continuación os dejo el link a la pagina [LOLBAS](https://lolbas-project.github.io/), pagina muy recomendable en la que se describe como se pueden aprovechar las herramientas presentes por defecto en Windows para obtener información local de este.
 
 **Repositorios de CTF Challenges & Writeups:**
 - [TheHackersLabs](https://thehackerslabs.com/).
