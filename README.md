@@ -8,15 +8,27 @@ No dudes en volver de vez en cuando para ver nuevos *contenidos* sobre **ciberse
 
 Puedes acceder a la web para ver los contenidos haciendo click [aquí](https://unhackeretico-notes.blogspot.com/).
 
-**CTF Challenges  & Writeups**
+**Certificaciones mas relevantes en el Ámbito de la Seguridad Ofensiva**
 
-Este repositorio Contiene mis soluciones, scripts y notas relacionadas con retos de *CTF* (Capture The Flag). El objetivo es practicar y mejorar habilidades en *Ciberseguridad*, *Hacking Ético* y *Pentesting*.
+- **CEH (EC Council Certified Etihical Hacker):** Es una de las certificaciones más extendidad y demandadas, pero suele ser muy criticada por su bajo contenido práctico, aunque esto ha cambiado a partir de la version 12 (CEHv12).
+- **Pentest+:** Certificado de CompTIA (The Computing Techology Industry Association) con un nivel intermedio. A diferencia de otras certificaciones, esta incluye elementos de todas las fases de un test de intrusión.
+- **eJPT (eLearnSecurity Junior Penetration tester):** Esta certificación está enfocada a expertos de IT que comienzan en el area del pentesting; por tanto, es una certificación de nivel básico.
+- **eCPPT (eLearnSecurity Certified Professional Penetration Tester):** Certificación de nivel avanzado sobre test de intrusión.
+- **HTB CPTS (HackTheBox Certified Penetration Testing Specialist):** Certificación altamente práctica que evalúa las habilidades de pruebas de penetración de los candidatos, es una certificación creada por la plataforma HackThebox.
+- **PNPT (TCM Security Practical Network Penetration Tester):** Certificación práctica de pruebas de penetración creada por la empresa TCM Security.
+- **OSCP (Offensive Security Certified Professional):** Esta certificación posiblemente sea la más temida y codiciada en el sector por su nivel de dificultad; tambien es una de las que más inversión económica precisa para realizarla. Su lema "*Try Harder*", anima a aquellos que no han conseguido su objetivo a seguir intentándolo y nunca tirar la toalla.
+
+**Recursos**
 
 - A continuación os dejo el link a la página [hacktricks](https://book.hacktricks.wiki/es/index.html), página muy recomendable con información sobre las distintas técnicas de ataque sobre *Hacking Ético*.
 - A continuación os dejo el link a la página [reverse shell](https://www.revshells.com/), página muy recomendable sobre las distintas técnicas en el lanzamiento de *shells reversas* de diferentes tipos.
 - A continuación os dejo el link a la página [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings), página muy recomendable sobre las distintas técnicas en el lanzamiento de *shells reversas* de diferentes tipos, explorar otros metodos y aplicar opciones avanzadas.
 - A continuación os dejo el link a la pagina [GTFOBins](https://gtfobins.github.io/), pagina muy recomendable de binarios de Unix que pueden usarse para eludir las restricciones de seguridad locales en sistemas mal configurados.
 - A continuación os dejo el link a la pagina [LOLBAS](https://lolbas-project.github.io/), pagina muy recomendable en la que se describe como se pueden aprovechar las herramientas presentes por defecto en Windows para obtenre información local de este.
+
+**CTF Challenges  & Writeups**
+
+Este repositorio Contiene mis soluciones, scripts y notas relacionadas con retos de *CTF* (Capture The Flag). El objetivo es practicar y mejorar habilidades en *Ciberseguridad*, *Hacking Ético* y *Pentesting*.
 
 Soluciones *CTF* (Capture The Flag):
 - [x] [Máquina shop (Vulnyx)](https://unhackeretico-notes.blogspot.com/2025/07/maquina-shop-vulnyx.html).
