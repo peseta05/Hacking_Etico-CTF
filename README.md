@@ -13,8 +13,8 @@ Puedes acceder a la web para ver los contenidos haciendo click [aquí](https://u
 Este repositorio Contiene mis soluciones, scripts y notas relacionadas con retos de *CTF* (Capture The Flag). El objetivo es practicar y mejorar habilidades en *Ciberseguridad*, *Hacking Ético* y *Pentesting*.
 
 - A continuación os dejo el link a la página [hacktricks](https://book.hacktricks.wiki/es/index.html), página muy recomendable con información sobre las distintas técnicas de ataque sobre *Hacking Ético*.
-- A continuación os dejo el link a la página [reverse shell](https://www.revshells.com/), página muy recomendable sobre las distintas técnicas en el lanzamiento de *shells eversas* de diferentes tipos.
-- A continuación os dejo el link a la página [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings), página muy recomendable sobre las distintas técnicas en el lanzamiento de *shells eversas* de diferentes tipos, explorar otros metodos y aplicar opciones avanzadas.
+- A continuación os dejo el link a la página [reverse shell](https://www.revshells.com/), página muy recomendable sobre las distintas técnicas en el lanzamiento de *shells reversas* de diferentes tipos.
+- A continuación os dejo el link a la página [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings), página muy recomendable sobre las distintas técnicas en el lanzamiento de *shells reversas* de diferentes tipos, explorar otros metodos y aplicar opciones avanzadas.
 - A continuación os dejo el link a la pagina [GTFOBins](https://gtfobins.github.io/), pagina muy recomendable de binarios de Unix que pueden usarse para eludir las restricciones de seguridad locales en sistemas mal configurados.
 - A continuación os dejo el link a la pagina [LOLBAS](https://lolbas-project.github.io/), pagina muy recomendable en la que se describe como se pueden aprovechar las herramientas presentes por defecto en Windows para obtenre información local de este.
 
