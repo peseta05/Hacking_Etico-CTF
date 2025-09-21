@@ -70,4 +70,4 @@ Toda la información publicada está destinada a promover *buenas prácticas de 
 
 **Utiliza siempre el conocimiento con responsabilidad**. La mejor defensa comienza con la educación.
 
-<p style="text-align: center> **¡¡¡Happy Hacking!!!** </p>
+<p style="text-align: center> ¡¡¡Happy Hacking!!! </p>
