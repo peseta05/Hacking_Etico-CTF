@@ -14,6 +14,7 @@ Este repositorio Contiene mis soluciones, scripts y notas relacionadas con retos
 
 - A continuación os dejo el link a la página [hacktricks](https://book.hacktricks.wiki/es/index.html), página muy recomendable con información sobre las distintas técnicas de ataque sobre *Hacking Ético*.
 - A continuación os dejo el link a la página [reverse shell](https://www.revshells.com/), página muy recomendable sobre las distintas técnicas en el establecimiento de *shells inversas* de diferentes tipos.
+- A continuación os dejo el link a la pagina [GTFOBins](https://gtfobins.github.io/), pagina muy recomendable de binarios de Unix que pueden usarse para eludir las restricciones de seguridad locales en sistemas mal configurados.
 
 Soluciones *CTF* (Capture The Flag):
 - [x] [Máquina shop (Vulnyx)](https://unhackeretico-notes.blogspot.com/2025/07/maquina-shop-vulnyx.html).
