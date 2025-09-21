@@ -27,7 +27,7 @@ Si está empezando en el *hacking ético* como imagino, mi consejo es que no se 
 - **[BlackArch](https://blackarch.org/):** Distribución de seguridad basada en Arch Linux con mas de 2800 herramientas en sus repositorios.
 - **[CommandoVM](https://github.com/mandiant/commando-vm):** Es un cojunto de herramientas para convertir el sistemas operativo Windows en una distribución de seguridad ofensiva. Creada por la empresa "*Mandiant*".
 
-**Recursos:**
+**Recursos Utiles:**
 
 - A continuación os dejo el link a la página [Hacktricks](https://book.hacktricks.wiki/es/index.html), página muy recomendable que recopila técnicas de explotación, detección de vulnerabilidades, escalada de privilegios, fallos de configuración, bastionado de servicios y un largo etcétera.
 - A continuación os dejo el link a la página [Hacktricks Cloud](https://cloud.hacktricks.wiki/es/index.html), página muy recomendable orientada a técnicas de pentesting en servicios en la nube.
