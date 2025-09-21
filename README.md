@@ -22,9 +22,9 @@ Si está empezando en el *hacking ético* como imagino, mi consejo es que no se 
 
 **Recursos**
 
-- A continuación os dejo el link a la página [hacktricks](https://book.hacktricks.wiki/es/index.html), página muy recomendable con información sobre las distintas técnicas de ataque sobre *Hacking Ético*.
+- A continuación os dejo el link a la página [Hacktricks](https://book.hacktricks.wiki/es/index.html), página muy recomendable con información sobre las distintas técnicas de ataque sobre *Hacking Ético*.
 - A continuación os dejo el link a la página [PortSwigger](https://portswigger.net/web-security/all-materials), academia gratuita en el que se explican las vulnerabilidades tipo web más comunes. Además, dispone de varios laboratorios con ejercicios de distintos niveles para practicar con algunas de ellas.
-- A continuación os dejo el link a la página [reverse shell](https://www.revshells.com/), página muy recomendable sobre las distintas técnicas en el lanzamiento de *shells reversas* de diferentes tipos.
+- A continuación os dejo el link a la página [Reverse Shell](https://www.revshells.com/), página muy recomendable sobre las distintas técnicas en el lanzamiento de *shells reversas* de diferentes tipos.
 - A continuación os dejo el link a la página [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings), página muy recomendable sobre las distintas técnicas en el lanzamiento de *shells reversas* de diferentes tipos, explorar otros metodos y aplicar opciones avanzadas.
 - A continuación os dejo el link a la pagina [GTFOBins](https://gtfobins.github.io/), pagina muy recomendable de binarios de Unix que pueden usarse para eludir las restricciones de seguridad locales en sistemas mal configurados.
 - A continuación os dejo el link a la pagina [LOLBAS](https://lolbas-project.github.io/), pagina muy recomendable en la que se describe como se pueden aprovechar las herramientas presentes por defecto en Windows para obtenre información local de este.
