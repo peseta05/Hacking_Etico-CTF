@@ -31,13 +31,13 @@ Si está empezando en el *hacking ético* como imagino, mi consejo es que no se 
 
 A continuación os dejo unos links utiles. 
 
-- [Hacktricks](https://book.hacktricks.wiki/es/index.html), página muy recomendable que recopila técnicas de explotación, detección de vulnerabilidades, escalada de privilegios, fallos de configuración, bastionado de servicios y un largo etcétera.
-- [Hacktricks Cloud](https://cloud.hacktricks.wiki/es/index.html), página muy recomendable orientada a técnicas de pentesting en servicios en la nube.
-- [PortSwigger](https://portswigger.net/web-security/all-materials), academia gratuita en el que se explican las vulnerabilidades tipo web más comunes. Además, dispone de varios laboratorios con ejercicios de distintos niveles para practicar con algunas de ellas.
-- [RevShells](https://www.revshells.com/), página muy recomendable sobre las distintas técnicas en el lanzamiento de *shells reversas* de diferentes tipos.
-- [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings), página muy recomendable sobre las distintas técnicas en el lanzamiento de *shells reversas* de diferentes tipos, explorar otros metodos y aplicar opciones avanzadas.
-- [GTFOBins](https://gtfobins.github.io/), pagina muy recomendable de binarios de Unix que pueden usarse para eludir las restricciones de seguridad locales en sistemas mal configurados.
-- [LOLBAS](https://lolbas-project.github.io/), pagina muy recomendable en la que se describe como se pueden aprovechar las herramientas presentes por defecto en Windows para obtener información local de este.
+- [Hacktricks](https://book.hacktricks.wiki/es/index.html): página muy recomendable que recopila técnicas de explotación, detección de vulnerabilidades, escalada de privilegios, fallos de configuración, bastionado de servicios y un largo etcétera.
+- [Hacktricks Cloud](https://cloud.hacktricks.wiki/es/index.html): página muy recomendable orientada a técnicas de pentesting en servicios en la nube.
+- [PortSwigger](https://portswigger.net/web-security/all-materials): academia gratuita en el que se explican las vulnerabilidades tipo web más comunes. Además, dispone de varios laboratorios con ejercicios de distintos niveles para practicar con algunas de ellas.
+- [RevShells](https://www.revshells.com/): página muy recomendable sobre las distintas técnicas en el lanzamiento de *shells reversas* de diferentes tipos.
+- [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings): página muy recomendable sobre las distintas técnicas en el lanzamiento de *shells reversas* de diferentes tipos, explorar otros metodos y aplicar opciones avanzadas.
+- [GTFOBins](https://gtfobins.github.io/): pagina muy recomendable de binarios de Unix que pueden usarse para eludir las restricciones de seguridad locales en sistemas mal configurados.
+- [LOLBAS](https://lolbas-project.github.io/)_ pagina muy recomendable en la que se describe como se pueden aprovechar las herramientas presentes por defecto en Windows para obtener información local de este.
 
 **Repositorios de CTF Challenges & Writeups:**
 - [TheHackersLabs](https://thehackerslabs.com/).
