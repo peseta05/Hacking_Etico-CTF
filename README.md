@@ -8,6 +8,17 @@ No dudes en volver de vez en cuando para ver nuevos *contenidos* sobre **ciberse
 
 Puedes acceder a la web para ver los contenidos haciendo click [aquí](https://unhackeretico-notes.blogspot.com/).
 
+**Perfil de un buen hacker o ciberinvestigador**
+
+Los conocimientos que debe adquirir un hacker se sustentan sobre una base sólida de conocimientos básicos y avanzados del funcionamiento de los sistemas informáticos. Esto incluye materia o áreas como:
+
+- **Arquitectura de computadoras y lenguaje ensamblador:** Constituye la base del funcionamiento de los elementos hardware y software de los sistemas informáticos.
+- **Redes de ordenadores y protocolos de red:** Esto incluye las diferentes arquitecturas de red, los tipos de redes (cableadas, inalámbricas, fibra óptica...), los dispositivos que intervienen en las redes de comunicaciones, la capa de protocolos TCP/IP y OSI y los protocolos de encaminamiento.
+- **Administración de sistemas operativos:** Instalar y configurar sistemas operativos, tanto Windows como GNU/Linux, que incluyen elementos como políticas de seguridad, permisos y roles de usuarios y grupos, administración de servicios (DHCP, DNS, FTP, HTTP, SSH...), administración de dominios, gestión de cuotas, configuración de reglas de cortafuegos, etc...
+Gestión y administración de bases de datos: Conocer los diferentes lenguajes de modelado de datos (SQL y noSQL), diferentes sistemas gestores de bases de datos (relacionales, orientados a objetos), su estructura y comandos de administración.
+- **Lenguajes de programación:** es un área muy amplia que va desde lenguajes de bajo nivel (C, C++, Go, Rust), hasta lenguajes orientados a objetos (Java, C#), programación orientada a aplicaciones móviles (Android, iOS), tecnologías web (Javascript, Jakarta EE framework, PHP, ASP, NodeJS), lenguajes de scripting (Python, Bash, PowerShell). La lista no es exhaustiva y puede ser que uno de los lenguajes o tecnologías en mas de una categoría.
+- **Criptografía:** Serán útiles los conocimientos desde dos perspectivas, los fundamentos matemáticos detrás de los algoritmos criptográficos y la aplicación práctica de técnicas criptográficas.
+
 **Certificaciones mas relevantes en el Ámbito de la Seguridad Ofensiva:**
 
 - **CEH (EC Council Certified Etihical Hacker):** Es una de las certificaciones más extendidad y demandadas, pero suele ser muy criticada por su bajo contenido práctico, aunque esto ha cambiado a partir de la version 12 (CEHv12).
