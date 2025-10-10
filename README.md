@@ -57,6 +57,7 @@ A continuación os dejo unos links utiles.
 - [GTFOBins](https://gtfobins.github.io/): pagina muy recomendable de binarios de Unix que pueden usarse para eludir las restricciones de seguridad locales en sistemas mal configurados.
 - [LOLBAS](https://lolbas-project.github.io/): pagina muy recomendable en la que se describe como se pueden aprovechar las herramientas presentes por defecto en Windows para obtener información local de este.
 - [CrackStation](https://crackstation.net/): Es un servicio online que nos permite crackear hashes de contraseñas. Utiliza un diccionario con más de 190GB, y más de 1.5 billones de contraseñas.
+- [CyberChef](https://gchq.github.io/CyberChef/): Es una herramienta de ciberseguridad de código abierto desarrollada por el servicio de inteligencia del Reino Unido que permite a los usuarios manipular y analizar datos de manera sencilla y visual, actuando como una "navaja suiza" para tareas como cifrado, decodificación, compresión y conversiones de formato. Su interfaz web permite realizar estas operaciones, como decodificar datos en Base64, cifrar mensajes o analizar diferentes tipos de archivos, directamente en el navegador web.
 
 **Repositorios de CTF Challenges & Writeups:**
 - [TheHackersLabs](https://thehackerslabs.com/).
