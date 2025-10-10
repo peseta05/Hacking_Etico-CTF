@@ -39,6 +39,7 @@ Gestión y administración de bases de datos: Conocer los diferentes lenguajes d
 Si está empezando en el *hacking ético* como me imagino, mi consejo es que no se obsesione con esto, el aprendizaje es largo y lleva su tiempo adquirir los conocimientos suficientes. Tómese su tiempo para ganar experiencia.
 
 **Distribuciones para Pentesting:**
+
 Para llevar a cabo las labores de *pentesting* se necesita un buen arsenal de herramientas, que se pueden instalar manualmente en el sistema operativo cuando se vayan necesitando o se puede emplear algunas de las distribuciones específicamente creadas para esta tarea. La segunda opción es la mas recomendable y la más empleada ya que facilita enormemente el trabajo y ahorra una gran cantidad de tiempo. Entre las distribuciones disponibles destacan las siguientes:
 
 - **[Kali Linux](https://www.kali.org/):** Distribución de seguridad basada en Debian desarrollada por la empresa *Offensive Security*. Dispone de numerosas opciones de instalación. Tambien dispone de un enorme repositorio de paquetes donde se incluyen nuevas herramientas con cada nueva versión, Lo que facilita la instalación automatizada de estas.
@@ -61,6 +62,7 @@ A continuación os dejo unos links utiles.
 - [CyberChef](https://gchq.github.io/CyberChef/): Es una herramienta de ciberseguridad de código abierto desarrollada por el servicio de inteligencia del Reino Unido que permite a los usuarios manipular y analizar datos de manera sencilla y visual, actuando como una "navaja suiza" para tareas como cifrado, decodificación, compresión y conversiones de formato. Su interfaz web permite realizar estas operaciones, como decodificar datos en Base64, cifrar mensajes o analizar diferentes tipos de archivos, directamente en el navegador web.
 
 **Repositorios de CTF Challenges & Writeups:**
+
 Para practicar mejorar nuestras habilidades disponemos de multitud de entornos de pruebas que simulan escenarios reales y que han sido diseñados para ser explotados.
 
 Los retos de captura la bandera o **Capture The Flag** (*CTF*) consisten en la obtención de un código oculto (*flag*) en el reto, que solo es accesible para aquellos que descubren la vulnerabilidad o el punto débil del reto. En este tipo de retos prima el resultado sobre el proceso, por lo que no hay que dar explicaciones de cómo se ha logrado resolver. Basta con obtener la bandera para demostrar que se tienen las habilidades que llevan a su resolución. Para para evitar que puedan hacer trampas existen códigos de conductas que se deben respetar. El más importante es no hacer pública la solución a un reto, denominado *writeup* o *walkthrough*, hasta que el reto deje de estar activo.
