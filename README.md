@@ -60,6 +60,12 @@ A continuación os dejo unos links utiles.
 - [CyberChef](https://gchq.github.io/CyberChef/): Es una herramienta de ciberseguridad de código abierto desarrollada por el servicio de inteligencia del Reino Unido que permite a los usuarios manipular y analizar datos de manera sencilla y visual, actuando como una "navaja suiza" para tareas como cifrado, decodificación, compresión y conversiones de formato. Su interfaz web permite realizar estas operaciones, como decodificar datos en Base64, cifrar mensajes o analizar diferentes tipos de archivos, directamente en el navegador web.
 
 **Repositorios de CTF Challenges & Writeups:**
+Para practicar mejorar nuestras habilidades disponemos de multitud de entornos de pruebas que simulan escenarios reales y que han sido diseñados para ser explotados.
+
+Los retos de captura la bandera o **Capture The Flag** (*CTF*) consisten en la obtención de un código oculto (*flag*) en el reto, que solo es accesible para aquellos que descubren la vulnerabilidad o el punto débil del reto. En este tipo de retos prima el resultado sobre el proceso, por lo que no hay que dar explicaciones de cómo se ha logrado resolver. Basta con obtener la bandera para demostrar que se tienen las habilidades que llevan a su resolución. Para para evitar que puedan hacer trampas existen códigos de conductas que se deben respetar. El más importante es no hacer pública la solución a un reto, denominado *writeup* o *walkthrough*, hasta que el reto deje de estar activo.
+
+Existen numerosas plataformas de internet donde se puede practicar todo este tipo de retos, algunos de ellos son:
+
 - [TheHackersLabs](https://thehackerslabs.com/).
 - [Vulnyx](https://vulnyx.com/).
 - [VulnHub](https://www.vulnhub.com/).
