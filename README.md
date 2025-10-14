@@ -65,7 +65,7 @@ A continuación os dejo unos links utiles.
 
 Para practicar y mejorar nuestras habilidades disponemos de multitud de entornos de pruebas que simulan escenarios reales y que han sido diseñados para ser explotados.
 
-Los retos de captura la bandera o **Capture The Flag** (*CTF*) consisten en la obtención de un código oculto (*flag*) en el reto, que solo es accesible para aquellos que descubren la vulnerabilidad o el punto débil del reto. En este tipo de retos prima el resultado sobre el proceso, por lo que no hay que dar explicaciones de cómo se ha logrado resolver. Basta con obtener la bandera para demostrar que se tienen las habilidades que llevan a su resolución. Para para evitar que puedan hacer trampas existen códigos de conductas que se deben respetar. El más importante es no hacer pública la solución a un reto, denominado *writeup* o *walkthrough*, hasta que el reto deje de estar activo.
+Los retos de captura la bandera o **Capture The Flag** (*CTF*) consisten en la obtención de un código oculto (*flag*) en el reto, que solo es accesible para aquellos que descubren la vulnerabilidad o el punto débil del reto. En este tipo de retos prima el resultado sobre el proceso, por lo que no hay que dar explicaciones de cómo se ha logrado resolver. Basta con obtener la bandera para demostrar que se tienen las habilidades que llevan a su resolución. Para evitar que puedan hacer trampas existen códigos de conductas que se deben respetar. El más importante es no hacer pública la solución a un reto, denominado *writeup* o *walkthrough*, hasta que el reto deje de estar activo.
 
 Existen numerosas plataformas de internet donde se puede practicar todo este tipo de retos, algunos de ellos son:
 
