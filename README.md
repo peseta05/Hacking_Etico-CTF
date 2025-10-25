@@ -93,7 +93,8 @@ Mis soluciones *CTF* (Capture The Flag):
 - [x] [Máquina Build (Vulnyx)](https://unhackeretico-notes.blogspot.com/2025/10/maquina-build-vulnyx.html) - Low.
 - [x] [Máquina Agent (Vulnyx)](https://unhackeretico-notes.blogspot.com/2025/10/maquina-agent-vulnyx.html) - Low.
 - [x] [Máquina Exec (Vulnyx)](https://unhackeretico-notes.blogspot.com/2025/10/maquina-exec-vulnyx.html) - Low.
-- Máquina HackingStation (Vulnyx)) - Low.
+- [x] [Máquina HackingStation (Vulnyx)](https://unhackeretico-notes.blogspot.com/2025/10/maquina-hackingstation-vulnyx.html) - Low.
+- Máquina Look (Vulnyx)- Low.
 
 **Descargo de Responsabilidad:**
 
