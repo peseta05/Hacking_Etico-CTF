@@ -1,4 +1,4 @@
-**Bienvenida:**
+**Bienvenida**
 
 Cuando una persona se quiere introducir en el mundo de la **ciberseguridad** desde el punto de vista **ofensivo**, uno de los principales problemas que suele tener es encontrar la información necesaria para empezar, no por la falta de la misma, sino más bien justo por lo opuesto: *existe un exceso de información que puede provocar frustración por empezar con aspectos demasiado complejos o por no estar estructurada*.
 
@@ -23,7 +23,9 @@ Gestión y administración de bases de datos: Conocer los diferentes lenguajes d
 - **Lenguajes de programación:** es un área muy amplia que va desde lenguajes de bajo nivel (C, C++, Go, Rust), hasta lenguajes orientados a objetos (Java, C#), programación orientada a aplicaciones móviles (Android, iOS), tecnologías web (Javascript, Jakarta EE framework, PHP, ASP, NodeJS), lenguajes de scripting (Python, Bash, PowerShell). La lista no es exhaustiva y puede ser que uno de los lenguajes o tecnologías encaje en más de una categoría.
 - **Criptografía:** Serán útiles los conocimientos desde dos perspectivas, los fundamentos matemáticos detrás de los algoritmos criptográficos y la aplicación práctica de técnicas criptográficas.
 
-**Certificaciones mas relevantes en el Ámbito de la Seguridad Ofensiva:**
+**Certificaciones mas relevantes en el Ámbito de la Seguridad Ofensiva**
+
+Algunas de las certificaciones más relevantes en el ámbito de la seguridad ofensiva son:
 
 - **CEH (EC Council Certified Etihical Hacker):** Es una de las certificaciones más extendidad y demandadas, pero suele ser muy criticada por su bajo contenido práctico, aunque esto ha cambiado a partir de la version 12 (CEHv12).
 - **Pentest+:** Certificado de CompTIA (The Computing Techology Industry Association) con un nivel intermedio. A diferencia de otras certificaciones, esta incluye elementos de todas las fases de un test de intrusión.
@@ -42,7 +44,7 @@ Gestión y administración de bases de datos: Conocer los diferentes lenguajes d
 
 Si está empezando en el *hacking ético* como me imagino, mi consejo es que no se obsesione con esto, el aprendizaje es largo y lleva su tiempo adquirir los conocimientos suficientes. Tómese su tiempo para ganar experiencia.
 
-**Distribuciones para Pentesting:**
+**Distribuciones para Pentesting**
 
 Para llevar a cabo las labores de *pentesting* se necesita un buen arsenal de herramientas, que se pueden instalar manualmente en el sistema operativo cuando se vayan necesitando o se puede emplear algunas de las distribuciones específicamente creadas para esta tarea. La segunda opción es la mas recomendable y la más empleada ya que facilita enormemente el trabajo y ahorra una gran cantidad de tiempo. Entre las distribuciones disponibles destacan las siguientes:
 
@@ -51,7 +53,7 @@ Para llevar a cabo las labores de *pentesting* se necesita un buen arsenal de he
 - **[BlackArch](https://blackarch.org/):** Distribución de seguridad basada en Arch Linux con mas de 2800 herramientas en sus repositorios.
 - **[CommandoVM](https://github.com/mandiant/commando-vm):** Es un conjunto de herramientas para convertir el sistemas operativo Windows en una distribución de seguridad ofensiva. Creada por la empresa "*Mandiant*".
 
-**Recursos Utiles:**
+**Recursos Utiles**
 
 En internet existen varias guías interesantes donde se ofrecen recursos de aprendizaje, algunos gratuitos y otros de pago. Hay que considerar la consulta de estas guias ya que ofrecen recursos y recomendaciones interesantes.
 
@@ -66,7 +68,7 @@ En internet existen varias guías interesantes donde se ofrecen recursos de apre
 - [CrackStation](https://crackstation.net/): Es un servicio online que nos permite crackear hashes de contraseñas. Utiliza un diccionario con más de 190GB, y más de 1.5 billones de contraseñas.
 - [CyberChef](https://gchq.github.io/CyberChef/): Es una herramienta de ciberseguridad de código abierto desarrollada por el servicio de inteligencia del Reino Unido que permite a los usuarios manipular y analizar datos de manera sencilla y visual, actuando como una "navaja suiza" para tareas como cifrado, decodificación, compresión y conversiones de formato. Su interfaz web permite realizar estas operaciones, como decodificar datos en Base64, cifrar mensajes o analizar diferentes tipos de archivos, directamente en el navegador web.
 
-**Repositorios de CTF Challenges & Writeups:**
+**Repositorios de CTF Challenges & Writeups**
 
 Para practicar y mejorar nuestras habilidades disponemos de multitud de entornos de pruebas que simulan escenarios reales y que han sido diseñados para ser explotados.
 
@@ -80,7 +82,7 @@ Existen numerosas plataformas de internet donde se puede practicar todo este tip
 - [DockerLabs](https://dockerlabs.es/#/).
 - [BugBountyLabs](https://bugbountylabs.com/).
 
-**CTF Challenges & Writeups:**
+**CTF Challenges & Writeups**
 
 Este repositorio Contiene mis soluciones, scripts y notas relacionadas con retos de *CTF* (Capture The Flag). El objetivo es practicar y mejorar habilidades en *Ciberseguridad*, *Hacking Ético* y *Pentesting*.
 
@@ -101,7 +103,7 @@ Mis soluciones *CTF* (Capture The Flag):
 - [x] [Máquina HackingStation (Vulnyx)](https://unhackeretico-notes.blogspot.com/2025/10/maquina-hackingstation-vulnyx.html) - Low.
 - Máquina Look (Vulnyx)- Low.
 
-**Descargo de Responsabilidad:**
+**Descargo de Responsabilidad**
 
 Este repositorio tiene como único objetivo la **divulgación educativa y ética** de conocimientos relacionados con la *ciberseguridad*, *hacking ético* y *protección digital*.
 
