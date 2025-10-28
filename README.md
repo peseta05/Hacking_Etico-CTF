@@ -53,7 +53,7 @@ Para llevar a cabo las labores de *pentesting* se necesita un buen arsenal de he
 
 **Recursos Utiles:**
 
-A continuación os dejo unos links utiles. 
+En internet existen varias guías interesantes donde se ofrecen recursos de aprendizaje, algunos gratuitos y otros de pago. Hay que considerar la consulta de estas guias ya que ofrecen recursos y recomendaciones interesantes.
 
 - [Hacktricks](https://book.hacktricks.wiki/es/index.html): página muy recomendable que recopila técnicas de explotación, detección de vulnerabilidades, escalada de privilegios, fallos de configuración, bastionado de servicios y un largo etcétera.
 - [Hacktricks Cloud](https://cloud.hacktricks.wiki/es/index.html): página muy recomendable orientada a técnicas de pentesting en servicios en la nube.
