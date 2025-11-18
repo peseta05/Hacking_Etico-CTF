@@ -90,7 +90,7 @@ Existen numerosas plataformas de internet donde se puede practicar todo este tip
 - [DockerLabs](https://dockerlabs.es/#/).
 - [BugBountyLabs](https://bugbountylabs.com/).
 
-<p style="text-align: center">**¡¡¡Happy Hacking!!!**</p>
+<p style="text-align: center">¡¡¡Happy Hacking!!!</p>
 
 **CTF Challenges & Writeups**
 
