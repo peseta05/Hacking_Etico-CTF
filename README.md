@@ -68,6 +68,14 @@ En internet existen varias guías interesantes donde se ofrecen recursos de apre
 - [CrackStation](https://crackstation.net/): Es un servicio online que nos permite crackear hashes de contraseñas. Utiliza un diccionario con más de 190GB, y más de 1.5 billones de contraseñas.
 - [CyberChef](https://gchq.github.io/CyberChef/): Es una herramienta de ciberseguridad de código abierto desarrollada por el servicio de inteligencia del Reino Unido que permite a los usuarios manipular y analizar datos de manera sencilla y visual, actuando como una "navaja suiza" para tareas como cifrado, decodificación, compresión y conversiones de formato. Su interfaz web permite realizar estas operaciones, como decodificar datos en Base64, cifrar mensajes o analizar diferentes tipos de archivos, directamente en el navegador web.
 
+**Creación de un laboratorio**
+
+A la hora de practicar las acciones de pentesting es necesario disponer de un laboratorio con distintos equipos, de modo que se disponga de distintos Sistemas Operativos y aplicaciones con vulnerabilidades diferentes. Dado que montar un laboratorio con equipos físicos seria muy costoso y dificil de mantener, es bastante habitual optar por la virtualización, puesto que con unos recursos más limitados se puede disponer de equipos suficientes para practicar, con la ventaja añadida de que si se dañan se pueden revertir al estado inicial sin tener que reinstalarlos desde cero.
+
+Existen plataformas que ponen a disposición del público entornos virtuales en los que practicar. Esta seria la mejor opción de cara a practicar, dado que suelen ir notando las Máquinas Virtuales con cierta regularidad y, además, algunas de ellas proporcionan laboratorios que simulan redes, de modo que se puede utilizar un equipo vulnerado para pivotar y acceder a la red interna hasta lograr tomar el control de todos los equipos. Como inconveniente principal, estos entornos son generalmente de pago, salvo pases temporales o laboratorios reducidos, por lo que hay que habrá que considerar si el presupuesto permite optar por esta opción.
+
+Las posibilidades son múltiples: se pueden utilizar Máquinas Virtuales independientes descargadas de internet o crear Máquinas Virtuales propias, utilizando aplicaciones y/o configuraciones vulnerables; se puede crear un laboratorio con varios equipos en una misma red para practicar los movimientos laterales o, incluso, crear un dominio Windows con su controlador de dominio y diferentes servidores y clientes. La limitación en este caso viene dada por el procesador y por la cantidad de memoria disponible en el equipo utilizado, aparte de por el presupuesto disponible para las licencias de Windows, si se opta por esta opción.
+
 **Repositorios de CTF Challenges & Writeups**
 
 Para practicar y mejorar nuestras habilidades disponemos de multitud de entornos de pruebas que simulan escenarios reales y que han sido diseñados para ser explotados.
