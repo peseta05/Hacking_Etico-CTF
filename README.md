@@ -90,8 +90,6 @@ Existen numerosas plataformas de internet donde se puede practicar todo este tip
 - [DockerLabs](https://dockerlabs.es/#/).
 - [BugBountyLabs](https://bugbountylabs.com/).
 
-<p style="text-align: center">¡¡¡Happy Hacking!!!</p>
-
 **CTF Challenges & Writeups**
 
 Este repositorio Contiene mis soluciones, scripts y notas relacionadas con retos de *CTF* (Capture The Flag). El objetivo es practicar y mejorar habilidades en *Ciberseguridad*, *Hacking Ético* y *Pentesting*.
