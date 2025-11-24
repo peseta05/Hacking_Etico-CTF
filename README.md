@@ -48,7 +48,7 @@ Si está empezando en el *hacking ético* como me imagino, mi consejo es que no 
 
 Si está empezando en el mundo del hacking ético o quieres reforzar tus conocimientos, una de las mejores formas de aprender es a través de libros bien estructurados y con contenidos alineados a la realidad del sector, Quiero recomendarte dos fuentes excelentes para formarte de manera solida: las editoriales **Paraninfo** y **RA-MA**.
 
-Ambas editoriales ofrecen libros muy completos sobre ciberseguridad, hacking ético, pentesting, y fundamentos de redes. Están orientados tanto a estudiantes de formación profesional como a autodidactas, e incluso a profesionales que quieren actualizarse.
+Ambas editoriales ofrecen libros muy completos sobre *ciberseguridad*, *hacking ético*, *pentesting*, y *fundamentos de redes*. Están orientados tanto a estudiantes de formación profesional como a autodidactas, e incluso a profesionales que quieren actualizarse.
 
 ¿Por que los recomiendo?
 - Están escritos por expertos del sector.
