@@ -51,14 +51,14 @@ Si está empezando en el mundo del hacking ético o quieres reforzar tus conocim
 Ambas editoriales ofrecen libros muy completos sobre ciberseguridad, hacking ético, pentesting, y fundamentos de redes. Están orientados tanto a estudiantes de formación profesional como a autodidactas, e incluso a profesionales que quieren actualizarse.
 
 ¿Por que los recomiendo?
-    - Están escritos por expertos del sector.
-    - Tienen un enfoque práctico.
-    - A menudo se adaptan a certificaciones oficiales (como CompTIA, LPI o Cisco).
-    - Incluyen laboratorios, ejercicios y ejemplos reales.
+- Están escritos por expertos del sector.
+- Tienen un enfoque práctico.
+- A menudo se adaptan a certificaciones oficiales (como CompTIA, LPI o Cisco).
+- Incluyen laboratorios, ejercicios y ejemplos reales.
 
 Algunos títulos recomendados:
-    - [Hacking Ético - RA-MA](https://www.ra-ma.es/libro/hacking-etico_139070/).
-    - [Hacking Ético - Paraninfo](https://www.paraninfo.es/catalogo/9788428362672/hacking-etico).
+- [Hacking Ético - RA-MA](https://www.ra-ma.es/libro/hacking-etico_139070/).
+- [Hacking Ético - Paraninfo](https://www.paraninfo.es/catalogo/9788428362672/hacking-etico).
 
 La lectura técnica es clave para desarrollar una base sólida. Así que si estás aprendiendo o ya estas en camino, te animo a que explores estos libros. Yo mismo los utilizo como parte de mi formación y los considero un gran apoyo.
 
