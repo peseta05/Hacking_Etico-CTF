@@ -44,14 +44,25 @@ Algunas de las certificaciones más relevantes en el ámbito de la seguridad ofe
 
 Si está empezando en el *hacking ético* como me imagino, mi consejo es que no se obsesione con esto, el aprendizaje es largo y lleva su tiempo adquirir los conocimientos suficientes. Tómese su tiempo para ganar experiencia.
 
-**Distribuciones para Pentesting**
+**Recomendaciones de libros para iniciarse en el Hacking Ético**
 
-Para llevar a cabo las labores de *pentesting* se necesita un buen arsenal de herramientas, que se pueden instalar manualmente en el sistema operativo cuando se vayan necesitando o se puede emplear algunas de las distribuciones específicamente creadas para esta tarea. La segunda opción es la mas recomendable y la más empleada ya que facilita enormemente el trabajo y ahorra una gran cantidad de tiempo. Entre las distribuciones disponibles destacan las siguientes:
+Si está empezando en el mundo del hacking ético o quieres reforzar tus conocimientos, una de las mejores formas de aprender es a través de libros bien estructurados y con contenidos alineados a la realidad del sector, Quiero recomendarte dos fuentes excelentes para formarte de manera solida: las editoriales **Paraninfo** y **RA-MA**.
 
-- **[Kali Linux](https://www.kali.org/):** Distribución de seguridad basada en Debian desarrollada por la empresa *Offensive Security*. Dispone de numerosas opciones de instalación. Tambien dispone de un enorme repositorio de paquetes donde se incluyen nuevas herramientas con cada nueva versión, Lo que facilita la instalación automatizada de estas.
-- **[ParrotOS](https://parrotsec.org/):** Distribucion de seguridad basada en Debian. En 2022 comenzó una alianza con HackTheBox para mejorar su desarrollo e incluirla en la plataforma a través de la web.
-- **[BlackArch](https://blackarch.org/):** Distribución de seguridad basada en Arch Linux con mas de 2800 herramientas en sus repositorios.
-- **[CommandoVM](https://github.com/mandiant/commando-vm):** Es un conjunto de herramientas para convertir el sistemas operativo Windows en una distribución de seguridad ofensiva. Creada por la empresa "*Mandiant*".
+Ambas editoriales ofrecen libros muy completos sobre ciberseguridad, hacking ético, pentesting, y fundamentos de redes. Están orientados tanto a estudiantes de formación profesional como a autodidactas, e incluso a profesionales que quieren actualizarse.
+
+¿Por que los recomiendo?
+    - Están escritos por expertos del sector.
+    - Tienen un enfoque práctico.
+    - A menudo se adaptan a certificaciones oficiales (como CompTIA, LPI o Cisco).
+    - Incluyen laboratorios, ejercicios y ejemplos reales.
+
+Algunos títulos recomendados:
+    - [Hacking Ético - RA-MA](https://www.ra-ma.es/libro/hacking-etico_139070/).
+    - [Hacking Ético - Paraninfo](https://www.paraninfo.es/catalogo/9788428362672/hacking-etico).
+
+La lectura técnica es clave para desarrollar una base sólida. Así que si estás aprendiendo o ya estas en camino, te animo a que explores estos libros. Yo mismo los utilizo como parte de mi formación y los considero un gran apoyo.
+
+**¡Recuerda!** *El conocimiento es tu mejor herramienta*.
 
 **Recursos Utiles**
 
@@ -68,6 +79,15 @@ En internet existen varias guías interesantes donde se ofrecen recursos de apre
 - [CrackStation](https://crackstation.net/): Es un servicio online que nos permite crackear hashes de contraseñas. Utiliza un diccionario con más de 190GB, y más de 1.5 billones de contraseñas.
 - [CyberChef](https://gchq.github.io/CyberChef/): Es una herramienta de ciberseguridad de código abierto desarrollada por el servicio de inteligencia del Reino Unido que permite a los usuarios manipular y analizar datos de manera sencilla y visual, actuando como una "navaja suiza" para tareas como cifrado, decodificación, compresión y conversiones de formato. Su interfaz web permite realizar estas operaciones, como decodificar datos en Base64, cifrar mensajes o analizar diferentes tipos de archivos, directamente en el navegador web.
 - [Devdocs](https://devdocs.io/): Es un navegador de documentación gratuito, de código abierto y optimizado para desarrolladores, que consolida la documentación de múltiples lenguajes de programación, librerías, frameworks y herramientas en una interfaz unificada, rápida y con capacidad de búsqueda instantánea.
+
+**Distribuciones para Pentesting**
+
+Para llevar a cabo las labores de *pentesting* se necesita un buen arsenal de herramientas, que se pueden instalar manualmente en el sistema operativo cuando se vayan necesitando o se puede emplear algunas de las distribuciones específicamente creadas para esta tarea. La segunda opción es la mas recomendable y la más empleada ya que facilita enormemente el trabajo y ahorra una gran cantidad de tiempo. Entre las distribuciones disponibles destacan las siguientes:
+
+- **[Kali Linux](https://www.kali.org/):** Distribución de seguridad basada en Debian desarrollada por la empresa *Offensive Security*. Dispone de numerosas opciones de instalación. Tambien dispone de un enorme repositorio de paquetes donde se incluyen nuevas herramientas con cada nueva versión, Lo que facilita la instalación automatizada de estas.
+- **[ParrotOS](https://parrotsec.org/):** Distribucion de seguridad basada en Debian. En 2022 comenzó una alianza con HackTheBox para mejorar su desarrollo e incluirla en la plataforma a través de la web.
+- **[BlackArch](https://blackarch.org/):** Distribución de seguridad basada en Arch Linux con mas de 2800 herramientas en sus repositorios.
+- **[CommandoVM](https://github.com/mandiant/commando-vm):** Es un conjunto de herramientas para convertir el sistemas operativo Windows en una distribución de seguridad ofensiva. Creada por la empresa "*Mandiant*".
 
 **Creación de un laboratorio**
 
