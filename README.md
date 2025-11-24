@@ -10,7 +10,7 @@ Este repositorio tiene como objetivo que todas aquellas personas que se quieren 
 
 No dudes en volver de vez en cuando para ver nuevos *contenidos* sobre **ciberseguridad**. Este repositorio se irá actualizando progresivamente a medida que avance y adquiera nuevos conocimientos en el mundo del *hacking ético*. Mi objetivo es compartir lo que voy aprendiendo, desde lo mas básico hasta técnicas mas avanzadas.
 
-Puedes acceder a la web para ver los contenidos haciendo click [aquí](https://unhackeretico-notes.blogspot.com/).
+Puedes acceder a la web para ver los contenidos haciendo click [**aquí**](https://unhackeretico-notes.blogspot.com/).
 
 **Perfil de un buen hacker o ciberinvestigador**
 
@@ -57,8 +57,8 @@ Ambas editoriales ofrecen libros muy completos sobre ciberseguridad, hacking ét
 - Incluyen laboratorios, ejercicios y ejemplos reales.
 
 Algunos títulos recomendados:
-- [Hacking Ético - RA-MA](https://www.ra-ma.es/libro/hacking-etico_139070/).
-- [Hacking Ético - Paraninfo](https://www.paraninfo.es/catalogo/9788428362672/hacking-etico).
+- [**Hacking Ético - RA-MA**](https://www.ra-ma.es/libro/hacking-etico_139070/).
+- [**Hacking Ético - Paraninfo**](https://www.paraninfo.es/catalogo/9788428362672/hacking-etico).
 
 La lectura técnica es clave para desarrollar una base sólida. Así que si estás aprendiendo o ya estas en camino, te animo a que explores estos libros. Yo mismo los utilizo como parte de mi formación y los considero un gran apoyo.
 
@@ -68,17 +68,17 @@ La lectura técnica es clave para desarrollar una base sólida. Así que si est�
 
 En internet existen varias guías interesantes donde se ofrecen recursos de aprendizaje, algunos gratuitos y otros de pago. Hay que considerar la consulta de estas guias ya que ofrecen recursos y recomendaciones interesantes.
 
-- [Hacktricks](https://book.hacktricks.wiki/es/index.html): página muy recomendable que recopila técnicas de explotación, detección de vulnerabilidades, escalada de privilegios, fallos de configuración, bastionado de servicios y un largo etcétera.
-- [Hacktricks Cloud](https://cloud.hacktricks.wiki/es/index.html): página muy recomendable orientada a técnicas de pentesting en servicios en la nube.
-- [PortSwigger](https://portswigger.net/web-security/all-materials): academia gratuita en el que se explican las vulnerabilidades tipo web más comunes. Además, dispone de varios laboratorios con ejercicios de distintos niveles para practicar con algunas de ellas.
-- [RevShells](https://www.revshells.com/): página muy recomendable sobre las distintas técnicas en el lanzamiento de *shells reversas* de diferentes tipos.
-- [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings): página muy recomendable sobre las distintas técnicas en el lanzamiento de *shells reversas* de diferentes tipos, explorar otros metodos y aplicar opciones avanzadas.
-- [GTFOBins](https://gtfobins.github.io/): pagina muy recomendable de binarios de Unix que pueden usarse para eludir las restricciones de seguridad locales en sistemas mal configurados.
-- [GTFOArgs](https://gtfoargs.github.io/): pagina muy recomendable siendo lo mismo que el anterior pero para casos donde solo puedes inyectar argumentos en un comando.
-- [LOLBAS](https://lolbas-project.github.io/): pagina muy recomendable en la que se describe como se pueden aprovechar las herramientas presentes por defecto en Windows para obtener información local de este.
-- [CrackStation](https://crackstation.net/): Es un servicio online que nos permite crackear hashes de contraseñas. Utiliza un diccionario con más de 190GB, y más de 1.5 billones de contraseñas.
-- [CyberChef](https://gchq.github.io/CyberChef/): Es una herramienta de ciberseguridad de código abierto desarrollada por el servicio de inteligencia del Reino Unido que permite a los usuarios manipular y analizar datos de manera sencilla y visual, actuando como una "navaja suiza" para tareas como cifrado, decodificación, compresión y conversiones de formato. Su interfaz web permite realizar estas operaciones, como decodificar datos en Base64, cifrar mensajes o analizar diferentes tipos de archivos, directamente en el navegador web.
-- [Devdocs](https://devdocs.io/): Es un navegador de documentación gratuito, de código abierto y optimizado para desarrolladores, que consolida la documentación de múltiples lenguajes de programación, librerías, frameworks y herramientas en una interfaz unificada, rápida y con capacidad de búsqueda instantánea.
+- [**Hacktricks**](https://book.hacktricks.wiki/es/index.html): página muy recomendable que recopila técnicas de explotación, detección de vulnerabilidades, escalada de privilegios, fallos de configuración, bastionado de servicios y un largo etcétera.
+- [**Hacktricks Cloud**](https://cloud.hacktricks.wiki/es/index.html): página muy recomendable orientada a técnicas de pentesting en servicios en la nube.
+- [**PortSwigger**](https://portswigger.net/web-security/all-materials): academia gratuita en el que se explican las vulnerabilidades tipo web más comunes. Además, dispone de varios laboratorios con ejercicios de distintos niveles para practicar con algunas de ellas.
+- [**RevShells**](https://www.revshells.com/): página muy recomendable sobre las distintas técnicas en el lanzamiento de *shells reversas* de diferentes tipos.
+- [**PayloadsAllTheThings**](https://github.com/swisskyrepo/PayloadsAllTheThings): página muy recomendable sobre las distintas técnicas en el lanzamiento de *shells reversas* de diferentes tipos, explorar otros metodos y aplicar opciones avanzadas.
+- [**GTFOBins**](https://gtfobins.github.io/): pagina muy recomendable de binarios de Unix que pueden usarse para eludir las restricciones de seguridad locales en sistemas mal configurados.
+- [**GTFOArgs**](https://gtfoargs.github.io/): pagina muy recomendable siendo lo mismo que el anterior pero para casos donde solo puedes inyectar argumentos en un comando.
+- [**LOLBAS**](https://lolbas-project.github.io/): pagina muy recomendable en la que se describe como se pueden aprovechar las herramientas presentes por defecto en Windows para obtener información local de este.
+- [**CrackStation**](https://crackstation.net/): Es un servicio online que nos permite crackear hashes de contraseñas. Utiliza un diccionario con más de 190GB, y más de 1.5 billones de contraseñas.
+- [**CyberChef**](https://gchq.github.io/CyberChef/): Es una herramienta de ciberseguridad de código abierto desarrollada por el servicio de inteligencia del Reino Unido que permite a los usuarios manipular y analizar datos de manera sencilla y visual, actuando como una "navaja suiza" para tareas como cifrado, decodificación, compresión y conversiones de formato. Su interfaz web permite realizar estas operaciones, como decodificar datos en Base64, cifrar mensajes o analizar diferentes tipos de archivos, directamente en el navegador web.
+- [**Devdocs**](https://devdocs.io/): Es un navegador de documentación gratuito, de código abierto y optimizado para desarrolladores, que consolida la documentación de múltiples lenguajes de programación, librerías, frameworks y herramientas en una interfaz unificada, rápida y con capacidad de búsqueda instantánea.
 
 **Distribuciones para Pentesting**
 
@@ -105,11 +105,11 @@ Los retos de captura la bandera o **Capture The Flag** (*CTF*) consisten en la o
 
 Existen numerosas plataformas de internet donde se puede practicar todo este tipo de retos, algunos de ellos son:
 
-- [TheHackersLabs](https://thehackerslabs.com/).
-- [Vulnyx](https://vulnyx.com/).
-- [VulnHub](https://www.vulnhub.com/).
-- [DockerLabs](https://dockerlabs.es/#/).
-- [BugBountyLabs](https://bugbountylabs.com/).
+- [**TheHackersLabs**](https://thehackerslabs.com/).
+- [**Vulnyx**](https://vulnyx.com/).
+- [**VulnHub**](https://www.vulnhub.com/).
+- [**DockerLabs**](https://dockerlabs.es/#/).
+- [**BugBountyLabs**](https://bugbountylabs.com/).
 
 Una vez configurado el laboratorio con la Máquina Virtual atacante y las Máquinas Virtuales vulnerables se puede comenzar a practicar. **¡¡¡Happy Hacking!!!**.
 
