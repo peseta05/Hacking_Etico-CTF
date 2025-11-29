@@ -136,7 +136,8 @@ Mis soluciones *CTF* (Capture The Flag):
 - [x] [Máquina share (Vulnyx)](https://unhackeretico-notes.blogspot.com/2025/11/maquina-share-vulnyx.html) - Low
 - [x] [Máquina Plot (Vulnyx)](https://unhackeretico-notes.blogspot.com/2025/11/maquina-plot-vulnyx.html) - Low
 - [x] [Máquina Noob (Vulnyx)](https://unhackeretico-notes.blogspot.com/2025/11/maquina-noob-vulnyx.html) - Low
-- Máquina lower - Low.
+- [x] [Máquina lower (Vulnyx)](https://unhackeretico-notes.blogspot.com/2025/11/maquina-lower-vulnyx.html) - Low.
+- Máquina Lower2 (Vulnyx)- Low.
 
 **Descargo de Responsabilidad**
 
