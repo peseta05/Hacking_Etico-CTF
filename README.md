@@ -136,6 +136,12 @@ Existen numerosas plataformas de internet donde se puede practicar todo este tip
 - [**DockerLabs**](https://dockerlabs.es/#/).
 - [**BugBountyLabs**](https://bugbountylabs.com/).
 
+Es posible encontrar otras VM virtuales fuera de estas paginas, algunas de las cuales han sido desarrolladas por los creadores de la herramienta **Metasploit**. Por la cantidad de vulnerabilidades que presenta, a efectos didácticos y de asimilación de conceptos y metodología es interesante utilizar [Metasploitable2](https://sourceforge.net/projects/metasploitable/), teniendo en cuenta que muchas de sus vulnerabilidades son muy antiguas y no se van a encontrar en entornos reales a día de hoy.
+
+Otra VM vulnerable interesante es [Metasploitable3](https://github.com/rapid7/metasploitable3), puesto que es una de las pocas que tienen una versión con el sistema operativo **Windows**.
+
+**Damn Vulnerable Web App (DVWA)** es una aplicación virtual vulnerable a los ciberataques web más conocidos y utilizados por hackers. El propósito de esta aplicación es entender cómo funcionan estos ataques y, además, aprender a identificar fallos de seguridad en otros sitios web. No obstante, [DVWA](https://github.com/digininja/DVWA) es un entorno legal y seguro, en donde puedes practicar estas técnicas todo lo que desees.
+
 Una vez configurado el laboratorio con la Máquina Virtual atacante y las Máquinas Virtuales vulnerables se puede comenzar a practicar. **¡¡¡Happy Hacking!!!**.
 
 **CTF Challenges & Writeups**
