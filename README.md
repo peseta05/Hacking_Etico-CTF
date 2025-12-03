@@ -56,7 +56,7 @@ Estas editoriales ofrecen libros muy completos sobre *ciberseguridad*, *hacking 
 - A menudo se adaptan a certificaciones oficiales (como CompTIA, LPI o Cisco).
 - Incluyen laboratorios, ejercicios y ejemplos reales.
 
-Algunos títulos recomendados:
+Algunos títulos recomendados son:
 - [**Hacking Ético - RA-MA**](https://www.ra-ma.es/libro/hacking-etico_139070/).
 - [**Hacking Ético - Paraninfo**](https://www.paraninfo.es/catalogo/9788428362672/hacking-etico).
 
