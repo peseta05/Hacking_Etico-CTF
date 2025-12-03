@@ -64,6 +64,31 @@ La lectura técnica es clave para desarrollar una base sólida. Así que si est�
 
 **¡Recuerda!** *El conocimiento es tu mejor herramienta*.
 
+**Mantenerse bien informado**
+
+El mundo de la tecnología avanza a pasos agigantados, por lo que en un corto periodo de tiempo se suceden numerosas novedades. Lo mismo sucede en ciberseguridad; por tanto, es preciso mantenerse al día de todo lo que ocurre. Una forma de hacerlo es a través de blogs especializados, de los que se recomiendan los siguientes:
+
+- [Una al día](https://unaaldia.hispasec.com/): La iniciativa de Hispasec nació hace más de 24 años y desde entonces no faltan a su cita diaria con una publicación relacionada con la seguridad informática.
+- [Un informático en el lado del mal](https://www.elladodelmal.com/): El blog personal de Chema Alonso que es un referente en el mundo de la ciberseguridad.
+- [Flu Proyect](https://www.flu-project.com/): Sitio web de Pablo González y Juan Antonio Calles donde encontrar noticias y artículos de investigaciones. Además, en él publican otros autores del panorama nacional.
+- [Hackplayer](https://www.hackplayers.com/): Otro sitio web de referencia en castellano donde las publicaciones son frecuentes y hay un gran número de colaboradores.
+- [The hacker Way](https://thehackerway.es/): Sitio web de Daniel Echeverri, alias Adastra, con numerosas publicaciones de gran calidad técnica.
+- [Hacking Articles](https://www.hackingarticles.in/): Sitio en ingles, con publicaciones continuas de diferentes categorías, soluciones a retos CTF, utilización de herramientas, técnicas de hacking, red teaming, etc....
+- [Google Project Zero](https://googleprojectzero.blogspot.com/): El blog del equipo de Google encargado de descubrimientos de vulnerabilidades zero day. Sus publicaciones suelen ser explicaciones técnicas de sus descubrimientos.
+- [Ars Technica](https://arstechnica.com/information-technology/): La sección de tecnología es un lugar de referencia para mantenerse al día de las últimas novedades.
+
+Las conferencias de seguridad que se organizan cada año son un punto de encuentro de hackers e investigadores que comparten sus nuevos descubrimientos, realizan talleres y demostraciones prácticas, sirven para formarse y mantenerse actualizados. Como no siempre es posible asistir a las charlas, algunas de ellas se publican libremente para consulta de todo el mundo y, en determinados casos, se emiten en directo en plataformas de streaming. Destacan las siguiente conferencias, dos de carácter internacional y el resto en España o Latinoamérica:
+
+- [BlackHat](https://blackhat.com/): Una de las conferencias de referencia a nivel mundial donde se reúnen los mejores hackers del globo. Se realizan varios eventos anuales (BlackHat Asia, BlackHat USA, BlackHat Europe, etc...).
+- [DEFCON](https://defcon.org/): Esta conferencia que se realiza en Las Vegas cada año es uno de los principales eventos de hacking del planeta.
+- [RootedCON](https://rootedcon.com/): Posiblemente la conferencia de seguridad más importante del país que se celebra desde 2010.
+- [Navaja Negra](https://www.navajanegra.com/2025/): Otra conferencia referente en España. Se viene celebrando desde 2012 en Albacete y se organiza por la Escuela Superior de Ingeniería Informática y la UCLM.
+- [DragonJar](https://www.dragonjarcon.org/): Esta conferencia de seguridad se organiza en Colombia y ofrece acceso online y gratuito
+- [H-CON](https://www.h-c0n.com/p/home.html): Conferencia de ciberseguridad organizada por la gente de Hackplayers.
+- [No cON Name](https://www.noconname.org/): Una de las conferencias más antiguas de España, surgió en 1999 en las Islas Baleares como asociación si ánimo de lucro.
+- [Congreso C1b3rWall](https://c1b3rwall.policia.es/congreso): Su primera edición tuvo lugar en 2019 y tras el parón obligado por la pandemia volvió a celebrarse en 2022. Se lleva a cabo en la sede de la Escuela Nacional de Policía en Ávila a finales de junio.
+- [Jornadas STIC del CCN-CERT](https://jornadas.ccn-cert.cni.es/es/?format=html): Jornadas organizadas por el Centro Cristológico Nacional desde 2007 y que reúne a responsables de seguridad de las Administraciones públicas, empresas y experto en ciberseguridad. En la web de las diferentes ediciones se pueden encontrar los videos y materiales de las charlas que se han llevado a cabo.
+
 **Recursos Utiles**
 
 En internet existen varias guías interesantes donde se ofrecen recursos de aprendizaje, algunos gratuitos y otros de pago. Hay que considerar la consulta de estas guias ya que ofrecen recursos y recomendaciones interesantes.
