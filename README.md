@@ -150,6 +150,21 @@ Otra VM vulnerable interesante es [Metasploitable3](https://github.com/rapid7/me
 
 Una vez configurado el laboratorio con la Máquina Virtual atacante y las Máquinas Virtuales vulnerables se puede comenzar a practicar. **¡¡¡Happy Hacking!!!**.
 
+**Plataformas de Recompensas (Bug Bounty)**
+
+Un programa de recompensas (Bug Bounty) es un mecanismo por el que grandes empresas, fabricantes, etc..., pagan una cantidad económica a un hacker por reportar vulnerabilidades en sus sistemas o en su software. Es una forma de incentivar la búsqueda y descubrimiento de vulnerabilidades de manera ética para que sean reportadas antes de que caigan en malas manos.
+
+El programa de recompensas puede estar abierto para que participe cualquier persona o puede ser privado, de modo que la empresa elige a las personas que pueden participar en él. Normalmente, las empresas que comienzan un programa de recompensas lo hacen de forma privada, y con el paso del tiempo y conforme van adquiriendo experiencia y confianza lo hacen público.
+
+Los sitios web de las empresas suelen tener un lugar para informar sobre sus programas de recompensas. El **RFC 91156** aceptado en 2022 por el IETF establece el fichero **security.txt** como la forma recomendada para informar a los investigadores de seguridad cómo reportar los fallos de seguridad que encuentren. Este fichero se puede situar en la raíz del dominio o en la carpeta **/.well-known/**. Si no existe el fichero, no significa que esa empresa no disponga de un programa de recompensas, ya que no es algo obligatorio.
+
+Las empresas suelen gestionar sus programas de recompensas a través de las plataformas intermediarias que existen. Las mas conocidas son:
+
+- [**Bugcrowd**](https://www.bugcrowd.com/bug-bounty-list/): Una de las plataformas principales a nivel global donde están los programas de recompensas de las mayores empresas.
+- [**HackerOne**](https://www.hackerone.com/bug-bounty-programs): Similar a la anterior, es una de las plataformas de recompensas más importantes con una lista de programas públicos muy extensa.
+- [**Intigriti**](https://www.intigriti.com/): Plataforma de recompensas de ámbito europeo cuya sede se encuentra en Bélgica. Financiada con fondos de la Unión Europea, también dispone de programas para evaluar la seguridad de las herramientas de la Comisión y otros organismos europeos.
+- [**Immunefi**](https://immunefi.com/): Esta plataforma de recompensas está enfocada a la protección de activos digitales y proyectos DeFi (Decentralized Finance) como monederos de criptomonedas o **smart contracts**, la conocida como Web3. Las cuantías que se pagan como recompensas son elevadas ya que un fallo de seguridad en esos sistemas puede llevar a la pérdida de grandes sumas de dinero.
+
 **CTF Challenges & Writeups**
 
 Este repositorio Contiene mis soluciones, scripts y notas relacionadas con retos de *CTF* (Capture The Flag). El objetivo es practicar y mejorar habilidades en *Ciberseguridad*, *Hacking Ético* y *Pentesting*.
