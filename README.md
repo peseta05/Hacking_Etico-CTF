@@ -93,7 +93,7 @@ Las conferencias de seguridad que se organizan cada año son un punto de encuent
 - [**Congreso C1b3rWall**](https://c1b3rwall.policia.es/congreso): Su primera edición tuvo lugar en 2019 y tras el parón obligado por la pandemia volvió a celebrarse en 2022. Se lleva a cabo en la sede de la Escuela Nacional de Policía en Ávila a finales de junio.
 - [**Jornadas STIC del CCN-CERT**](https://jornadas.ccn-cert.cni.es/es/?format=html): Jornadas organizadas por el Centro Cristológico Nacional desde 2007 y que reúne a responsables de seguridad de las Administraciones públicas, empresas y experto en ciberseguridad. En la web de las diferentes ediciones se pueden encontrar los videos y materiales de las charlas que se han llevado a cabo.
 
-**Recursos Utiles**
+**Enlaces de Interes**
 
 En internet existen varias guías interesantes donde se ofrecen recursos de aprendizaje, algunos gratuitos y otros de pago. Hay que considerar la consulta de estas guias ya que ofrecen recursos y recomendaciones interesantes.
 
@@ -102,7 +102,7 @@ En internet existen varias guías interesantes donde se ofrecen recursos de apre
 - [**PortSwigger**](https://portswigger.net/web-security/all-materials): academia gratuita en el que se explican las vulnerabilidades tipo web más comunes. Además, dispone de varios laboratorios con ejercicios de distintos niveles para practicar con algunas de ellas.
 - [**RevShells**](https://www.revshells.com/): página muy recomendable sobre las distintas técnicas en el lanzamiento de *shells reversas* de diferentes tipos.
 - [**PayloadsAllTheThings**](https://github.com/swisskyrepo/PayloadsAllTheThings): página muy recomendable sobre las distintas técnicas en el lanzamiento de *shells reversas* de diferentes tipos, explorar otros metodos y aplicar opciones avanzadas.
-- [**GTFOBins**](https://gtfobins.github.io/): pagina muy recomendable de binarios de Unix que pueden usarse para eludir las restricciones de seguridad locales en sistemas mal configurados.
+- [**GTFOBins**](https://gtfobins.github.io/): pagina muy recomendable de binarios de Unix que pueden usarse para eludir las restricciones de seguridad locales en sistemas mal configurados; También existe la posibilidad de usarlo a través de la terminal con la ayuda de la herramienta [GTFOBins-cli](https://github.com/7Rocky/gtfobins-cli).
 - [**GTFOArgs**](https://gtfoargs.github.io/): pagina muy recomendable siendo lo mismo que el anterior pero para casos donde solo puedes inyectar argumentos en un comando.
 - [**LOLBAS**](https://lolbas-project.github.io/): pagina muy recomendable en la que se describe como se pueden aprovechar las herramientas presentes por defecto en Windows para obtener información local de este.
 - [**Nishang**](https://github.com/samratashok/nishang): Es un conjunto de scripts de PowerShell diseñados para pruebas de penetración y operaciones de hacking ético en entornos Windows.
