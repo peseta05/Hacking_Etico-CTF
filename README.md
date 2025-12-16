@@ -97,7 +97,7 @@ Las conferencias de seguridad que se organizan cada año son un punto de encuent
 
 En internet existen varias guías interesantes donde se ofrecen recursos de aprendizaje, algunos gratuitos y otros de pago. Hay que considerar la consulta de estas guias ya que ofrecen recursos y recomendaciones interesantes.
 
-- [**Hacktricks**](https://book.hacktricks.wiki/es/index.html): página muy recomendable que recopila técnicas de explotación, detección de vulnerabilidades, escalada de privilegios, fallos de configuración, bastionado de servicios y un largo etcétera.
+- [**Hacktricks**](https://book.hacktricks.wiki/es/index.html): Recurso fundamental que debe estar en los marcadores, sitio de referencia de pentesters y expertos en ciberseguridad, recopila técnicas de explotación, detección de vulnerabilidades, escalada de privilegios, fallos de configuración, bastionado de servicios y un largo etcétera.
 - [**Hacktricks Cloud**](https://cloud.hacktricks.wiki/es/index.html): página muy recomendable orientada a técnicas de pentesting en servicios en la nube.
 - [**PortSwigger**](https://portswigger.net/web-security/all-materials): academia gratuita en el que se explican las vulnerabilidades tipo web más comunes. Además, dispone de varios laboratorios con ejercicios de distintos niveles para practicar con algunas de ellas.
 - [**RevShells**](https://www.revshells.com/): página muy recomendable sobre las distintas técnicas en el lanzamiento de *shells reversas* de diferentes tipos; También existe la posibilidad de usarlo a través de la terminal con la ayuda de la herramienta escrita en python [revshell](https://github.com/esp0xdeadbeef/revshell).
