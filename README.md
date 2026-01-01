@@ -95,8 +95,6 @@ Las conferencias de seguridad que se organizan cada año son un punto de encuent
 
 **Recursos Útiles**
 
-En internet existen varias guías interesantes donde se ofrecen recursos de aprendizaje, algunos gratuitos y otros de pago. Hay que considerar la consulta de estas guias ya que ofrecen recursos y recomendaciones interesantes.
-
 - [**Hacktricks**](https://book.hacktricks.wiki/es/index.html): Recurso fundamental que debe estar en los marcadores, sitio de referencia de pentesters y expertos en ciberseguridad, recopila técnicas de explotación, detección de vulnerabilidades, escalada de privilegios, fallos de configuración, bastionado de servicios y un largo etcétera.
 - [**Hacktricks Cloud**](https://cloud.hacktricks.wiki/es/index.html): Orientada a técnicas de pentesting en servicios en la nube.
 - [**PortSwigger**](https://portswigger.net/web-security/all-materials): academia gratuita en el que se explican las vulnerabilidades tipo web más comunes. Además, dispone de varios laboratorios con ejercicios de distintos niveles para practicar con algunas de ellas.
