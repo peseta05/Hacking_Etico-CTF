@@ -39,12 +39,12 @@ Algunas de las certificaciones más relevantes en el ámbito de la seguridad ofe
 - **PNPT (TCM Security Practical Network Penetration Tester):** Certificación práctica de pruebas de penetración creada por la empresa TCM Security.
 - **OSCP (Offensive Security Certified Professional):** Esta certificación posiblemente sea la más temida y codiciada en el sector por su nivel de dificultad; tambien es una de las que más inversión económica precisa para realizarla. Su lema "*Try Harder*", anima a aquellos que no han conseguido su objetivo a seguir intentándolo y nunca tirar la toalla.
 - [**Especialización de Ciberseguridad en Entornos de las Tecnologías de la Información (CETI)**](https://www.todofp.es/que-estudiar/familias-profesionales/informatica-comunicaciones/ce-ciberseguridad-entornos-tecnologias-informacion.html): Es un curso de especialización dirigido a titulados de ciclos superiores de Informática, es ideal para quienes buscan una formación sólida, practica y orientada al mundo laboral. Si quieres trabajar en ciberseguridad, como *Experto en ciberseguridad*, *Auditor de ciberseguridad*, *Consultor de ciberseguridad* y *hacker ético* esta es tu titulación. Esta especialidad tiene un plan de formación como:
-    - **Bastionado de Redes y Sistemas**.
     - **Análisis Forense Informático**.
+    - **Bastionado de Redes y Sistemas**.
     - **Hacking Ético**.
-    - **Puesta en Producción Segura**.
     - **Incidentes de Ciberseguridad**.
-    - **Normativa de Ciberseguridad** (como el ENS y el RGPD).
+    - **Normativa de Ciberseguridad**.
+    - **Puesta en Producción Segura**.
 
 Si está empezando en el *hacking ético* como me imagino, mi consejo es que no se obsesione con esto, el aprendizaje es largo y lleva su tiempo adquirir los conocimientos suficientes. Tómese su tiempo para ganar experiencia.
 
