@@ -27,6 +27,34 @@ Gestión y administración de bases de datos: Conocer los diferentes lenguajes d
 - **Lenguajes de programación:** es un área muy amplia que va desde lenguajes de bajo nivel (C, C++, Go, Rust), hasta lenguajes orientados a objetos (Java, C#), programación orientada a aplicaciones móviles (Android, iOS), tecnologías web (Javascript, Jakarta EE framework, PHP, ASP, NodeJS), lenguajes de scripting (Python, Bash, PowerShell). La lista no es exhaustiva y puede ser que uno de los lenguajes o tecnologías encaje en más de una categoría.
 - **Criptografía:** Serán útiles los conocimientos desde dos perspectivas, los fundamentos matemáticos detrás de los algoritmos criptográficos y la aplicación práctica de técnicas criptográficas.
 
+**Acceso a la Ciberseguridad a través de FP**
+
+En España, para desarrollar una carrera en ciberseguridad, es fundamental contar con una base sólida en informática a través de estudios reglados como un ciclo formativo de Formación Profesional (FP), y combinarlo con formación autodidacta y práctica especializada.
+
+El itinerario académico oficial más habitual comienza con la FP, donde existen varias opciones:
+
+- **Ciclo de Grado Medio como Sistemas Microinformáticos y Redes (SMR):** Este ciclo es accesible sin necesidad de bachillerato y proporciona las bases de la informática general, aunque con un enfoque más básico.
+- **Ciclos de Grado Superior como Administración de Sistemas Informáticos en Red (ASIR), Desarrollo de Aplicaciones Multiplataforma (DAM) y Desarrollo de Aplicaciones Web (DAW):** El ciclo formativo de ASIR es especialmente recomendado porque, aunque no tiene un enfoque específico en ciberseguridad, abarca los fundamentos esenciales: Redes, Sistemas (Linux y Windows), Bases de Datos, Hardware, y Administración de Servicios. Estos conocimientos son imprescindibles para entender los entornos que se deben proteger y gestionar en ciberseguridad.
+El ciclo oficial es solo una base. Es fundamental complementar la formación con aprendizaje autodidacta y cursos específicos:
+
+Cursos online especializados en Ciberseguridad.
+Práctica con laboratorios de Hacking Ético, retos CTF (*Capture The Flag*) y plataformas de simulación de ataques y defensa.
+Certificaciones reconocidas internacionalmente pueden ser muy útiles, aunque no imprescindibles de inicio.
+
+**Acceso a la Ciberseguridad a través de la Universidad**
+
+La vía universitaria está orientada a quienes buscan una formación multidisciplinar más teórica y profunda, con proyección a puestos de trabajo de mayor responsabilidad o investigación.
+
+Para acceder a estudios universitarios es necesario disponer de un título de Bachillerato y superar la evaluación pertinente (*EBAU*), o disponer de un título de FP superior, o de acceso universitario para mayores de 25 años.
+
+Se puede cursar un grado universitario específicamente en ciberseguridad o en ingeniería informática / telecomunicaciones. Los grados dedicados en exclusiva a ciberseguridad incluyen contenidos como criptografía, protección de infraestructuras, análisis de malware, derecho y gestión de riesgos digitales.
+
+Finalizado el grado, es posible especializarse aún más mediante másteres oficiales o cursos de postgrado, permitiendo acceder tanto a empleos técnicos avanzados como a labores de dirección, investigación y consultoría estratégica.
+
+**Conclusión entre FP y Universidad**
+
+Ambas rutas "*FP* y *Universidad*" conducen a competencias profesionales que responden a la alta demanda de la ciberseguridad en España. La FP destacada por su orientación práctica y rápida incorporación al mundo laboral, mientras que la universidad ofrece una base conceptual sólida y mayores posibilidades de progresión hacia puestos de mayor especialización o investigación. Elegir uno u otro camino dependerá del perfil, objetivos y preferencias de cada estudiante, sabiendo que ambos son altamente valorados por las empresas del entorno digital.
+
 **Certificaciones mas relevantes en el Ámbito de la Seguridad Ofensiva**
 
 Algunas de las certificaciones más relevantes en el ámbito de la seguridad ofensiva son:
