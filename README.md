@@ -2,11 +2,15 @@
 
 El término hacker se utilizó desde su origen para definir a aquella persona que estudiaba en profundidad una tecnología, con el fin de conocerla de modo que pudiera modificarla y realizar tareas para las que no estaba pensada originalmente. Esta definición se adoptó en el ámbito informático, pero su significado ha ido variando, de tal manera que, actualmente, se suele utilizar el término hacking para definir el acceso no autorizado a sistemas ajenos con el propósito de ocasionar daños. La RAE reconoce el término hacker (aunque lo redirige a "jáquer") en sus dos acepciones: "pirata informático" y "persona con grandes habilidades en el manejo de computadoras que investiga un sistema informático para avisar de los fallos y desarrollar técnicas de mejora".
 
+**Ethical Hacking**
+
 Para evitar la anterior connotación negativa se inventó este término para definir aquel hacking que no tiene propósitos dañinos, también denominado white hat hacking o hacking ético (afortunadamente, el término "jáquing" no se encuentra en el diccionario de la RAE). Estos términos se utilizan para definir la utilización de técnicas ofensivas para acceder a sistemas con la finalidad de detectar vulnerabilidades y reportarlas para que puedan ser solucionadas.
 
 Diariamente se producen numerosos ciberataques; cuando alguno de ellos es detectado surgen varias preguntas: quién ha sido, cuando entró en los sistemas, qué ha hecho y qué se ha llevado, cuanto tiempo ha estado dentro y cómo consiguió acceder. Es probable que nunca se pueda identificar al atacante, y averiguar lo que ha hecho en el sistema puede requerir un proceso largo y costoso, pero lo que es aún más preocupante para muchas organizaciones es si podrá recuperarse de los daños y recuperar la información perdida. Sin embargo, si la organización hubiera identificado previamente el cómo y el qué, habría podido protegerse de una manera más adecuada y evitar el ataque o, al menos, aprender de sus vulnerabilidades para minimizar los daños.
 
 El objetivo de la ciberseguridad es minimizar los riesgos, reduciendo las vulnerabilidades y bloqueando las amenazas, en un proceso continuo que va desde la detección de las vulnerabilidades hasta el análisis de los ataques recibidos, pasando por la monitorización en tiempo real de lo que sucede en los sistemas.
+
+**Introducción**
 
 Cuando una persona se quiere introducir en el mundo de la **ciberseguridad** desde el punto de vista **ofensivo**, uno de los principales problemas que suele tener es encontrar la información necesaria para empezar, no por la falta de la misma, sino más bien justo por lo opuesto: *existe un exceso de información que puede provocar frustración por empezar con aspectos demasiado complejos o por no estar estructurada*.
 
