@@ -263,7 +263,7 @@ Las empresas suelen gestionar sus programas de recompensas a través de las plat
 
 **CTF Challenges & Writeups**
 
-Este repositorio Contiene mis soluciones, scripts y notas relacionadas con retos de *CTF* (Capture The Flag). El objetivo es practicar y mejorar habilidades en *Ciberseguridad*, *Hacking Ético* y *Pentesting*.
+Este repositorio contiene mis soluciones, scripts y notas relacionadas con retos de *CTF* (Capture The Flag). El objetivo es practicar y mejorar habilidades en *Ciberseguridad*, *Hacking Ético* y *Pentesting*.
 
 Mis soluciones *CTF* (Capture The Flag):
 - [x] [Máquina Shop (Vulnyx)](https://unhackeretico-notes.blogspot.com/2025/07/maquina-shop-vulnyx.html) - Easy.
