@@ -16,10 +16,6 @@ Cuando una persona se quiere introducir en el mundo de la **ciberseguridad** des
 
 Este repositorio tiene como objetivo que todas aquellas personas que se quieren iniciar en el *"hacking ético"* tengan los recursos necesarios y conozcan la metodología que se debe seguir durante el proceso, se da por hecho que el lector dispone de conocimientos previos de **Informática** y **Redes**, que resultan muy necesarios para este mundo. Por ello, en este  repositorio se parte del supuesto de que el lector sabe manejar con soltura Sistemas Operativos [**Linux**](https://unhackeretico-notes.blogspot.com/2025/06/sistemas-operativos-linux.html) y [**Windows**](https://unhackeretico-notes.blogspot.com/2025/06/sistemas-operativos-windows.html) y posee unos conocimientos básicos de [**Protocolos de Red**](https://unhackeretico-notes.blogspot.com/2025/06/funcionamiento-del-protocolo-tcpip.html), aunque esto no quiere decir que sea imprescindible conocer hasta el mínimo detalle todos los protocolos ni ser un experto administrador de sistemas. Se sobreentiende que la propia inquietud del lector interesado en la ciberseguridad le animará a profundizar en aquellos aspectos en los que detecte que deberá tener mayores conocimientos.
 
-Puedes acceder al blog para ver los contenidos haciendo click [**aquí**](https://unhackeretico-notes.blogspot.com/).
-
-No dudes en volver de vez en cuando para ver nuevos *contenidos* sobre **ciberseguridad**. Este blog se irá actualizando progresivamente a medida que avance y adquiera nuevos conocimientos en el mundo del *hacking ético*. Mi objetivo es compartir lo que voy aprendiendo, desde lo mas básico hasta técnicas mas avanzadas.
-
 Antes de continuar explorando el contenido de este repositorio, te invito a leer el [**Descargo de Responsabilidad**](https://github.com/peseta05/Hacking_Etico-CTF/blob/main/Descargo%20de%20Responsabilidad.md). Es importante entender que todo lo compartido en este repositorio tiene fines educativos y está orientado al uso responsable del conocimiento en Ciberseguridad.
 
 **Perfil de un buen hacker o ciberinvestigador**
@@ -256,3 +252,7 @@ Mis soluciones *CTF* (Capture The Flag):
 - [x] [Máquina Lower6 (Vulnyx)](https://unhackeretico-notes.blogspot.com/2026/01/maquina-lower6-vulnyx.html) - Low.
 - [x] [Máquina Lower7 (Vulnyx)](https://unhackeretico-notes.blogspot.com/2026/01/maquina-lower7-vulnyx.html) - Low.
 - Máquina Loweb (Vulnyx) - Low.
+
+Puedes acceder al blog para ver los contenidos haciendo click [**aquí**](https://unhackeretico-notes.blogspot.com/).
+
+No dudes en volver de vez en cuando para ver nuevos *contenidos* sobre **ciberseguridad**. Este repositorio y el blog se irá actualizando progresivamente a medida que avance y adquiera nuevos conocimientos en el mundo del *hacking ético*. Mi objetivo es compartir lo que voy aprendiendo, desde lo mas básico hasta técnicas mas avanzadas.
