@@ -20,7 +20,7 @@ Puedes acceder al blog para ver los contenidos haciendo click [**aquí**](https:
 
 No dudes en volver de vez en cuando para ver nuevos *contenidos* sobre **ciberseguridad**. Este blog se irá actualizando progresivamente a medida que avance y adquiera nuevos conocimientos en el mundo del *hacking ético*. Mi objetivo es compartir lo que voy aprendiendo, desde lo mas básico hasta técnicas mas avanzadas.
 
-Antes de explorar el contenido de este repositorio, te invito a leer el [**Descargo de Responsabilidad**](https://github.com/peseta05/Hacking_Etico-CTF/blob/main/Descargo%20de%20Responsabilidad.md). Es importante entender que todo lo compartido en este blog tiene fines educativos y está orientado al uso responsable del conocimiento en Ciberseguridad.
+Antes de continuar explorando el contenido de este repositorio, te invito a leer el [**Descargo de Responsabilidad**](https://github.com/peseta05/Hacking_Etico-CTF/blob/main/Descargo%20de%20Responsabilidad.md). Es importante entender que todo lo compartido en este repositorio tiene fines educativos y está orientado al uso responsable del conocimiento en Ciberseguridad.
 
 **Perfil de un buen hacker o ciberinvestigador**
 
