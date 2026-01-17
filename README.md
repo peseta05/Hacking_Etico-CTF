@@ -291,4 +291,5 @@ Mis soluciones *CTF* (Capture The Flag):
 - [x] [Máquina Lower4 (Vulnyx)](https://unhackeretico-notes.blogspot.com/2025/12/maquina-lower4-vulnyx.html) - Low.
 - [x] [Máquina Lower5 (Vulnyx)](https://unhackeretico-notes.blogspot.com/2026/01/maquina-lower5-vulnyx.html) - Low.
 - [x] [Máquina Lower6 (Vulnyx)](https://unhackeretico-notes.blogspot.com/2026/01/maquina-lower6-vulnyx.html) - Low.
-- Máquina Lower7 (Vulnyx) - Low.
+- [x] [Máquina Lower7 (Vulnyx)](https://unhackeretico-notes.blogspot.com/2026/01/maquina-lower7-vulnyx.html) - Low.
+- Máquina Loweb (Vulnyx)- Low.
