@@ -81,9 +81,9 @@ El itinerario académico oficial más habitual comienza con la FP, donde existen
 - **Los Ciclos Formativos de Grado Superior como Administración de Sistemas Informáticos en Red (ASIR), Desarrollo de Aplicaciones Multiplataforma (DAM) y Desarrollo de Aplicaciones Web (DAW):** Siendo el Ciclo Formativo de Grado Superior de Administración de Sistemas Informaticos en Red (ASIR) especialmente recomendado porque, aunque no tiene un enfoque específico en ciberseguridad, abarca los fundamentos esenciales: Redes, Sistemas (Linux y Windows), Bases de Datos, Hardware, y Administración de Servicios. Estos conocimientos son imprescindibles para entender los entornos que se deben proteger y gestionar en ciberseguridad.
 El ciclo oficial es solo una base. Es fundamental complementar la formación con aprendizaje autodidacta y cursos específicos:
 
-Cursos online especializados en Ciberseguridad.
-Práctica con laboratorios de Hacking Ético, retos CTF (*Capture The Flag*) y plataformas de simulación de ataques y defensa.
-Certificaciones reconocidas internacionalmente pueden ser muy útiles, aunque no imprescindibles de inicio.
+- Cursos online especializados en Ciberseguridad.
+- Práctica con laboratorios de Hacking Ético, retos CTF (*Capture The Flag*) y plataformas de simulación de ataques y defensa.
+- Certificaciones reconocidas internacionalmente pueden ser muy útiles, aunque no imprescindibles de inicio.
 
 **Acceso a la Ciberseguridad a través de la Universidad**
 
