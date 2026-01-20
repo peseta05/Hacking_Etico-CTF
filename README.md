@@ -25,6 +25,8 @@ Con un lenguaje instructivo se introduce al lector de forma secuencial en esta d
 - Obtención de información del equipo y de la red interna para tomar el control total del sistema.
 - Test de la seguridad de las redes WIFI.
 
+Con este repositorio aprenderás a descubrir vulnerabilidades atacando sistemas antes de que lo hagan los ciberdelincuentes. 
+
 Antes de continuar explorando el contenido de este repositorio, te invito a leer el [**Descargo de Responsabilidad**](https://github.com/peseta05/Hacking_Etico-CTF/blob/main/Descargo%20de%20Responsabilidad.md). Es importante entender que todo lo compartido en este repositorio tiene fines educativos y está orientado al uso responsable del conocimiento en Ciberseguridad.
 
 **Perfil de un buen hacker o ciberinvestigador**
