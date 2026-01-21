@@ -78,9 +78,7 @@ Ambas rutas "*FP* y *Universidad*" conducen a competencias profesionales que res
 
 El INCIBE, pone a tu disposición tres [catálogos formativos](https://www.incibe.es/incibe/formacion/catalogos-formacion-ciberseguridad) que te ayudarán a elegir la mejor opción para especializarte en ciberseguridad y acceder a un mercado laboral en pleno auge.
 
-**Certificaciones mas relevantes en el Ámbito de la Seguridad Ofensiva**
-
-Algunas de las certificaciones más relevantes en el ámbito de la seguridad ofensiva son:
+**Certificaciones reconocidas internacionalmente mas relevantes en el Ámbito de la Seguridad Ofensiva**
 
 - **CEH (EC Council Certified Etihical Hacker):** Es una de las certificaciones más extendidad y demandadas, pero suele ser muy criticada por su bajo contenido práctico, aunque esto ha cambiado a partir de la version 12 (CEHv12).
 - **Pentest+:** Certificado de CompTIA (The Computing Techology Industry Association) con un nivel intermedio. A diferencia de otras certificaciones, esta incluye elementos de todas las fases de un test de intrusión.
