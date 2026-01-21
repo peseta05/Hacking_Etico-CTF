@@ -51,6 +51,13 @@ El itinerario académico oficial más habitual comienza con la FP, donde existen
 
 El ciclo oficial es solo una base. Es fundamental complementar la formación con aprendizaje autodidacta y cursos específicos:
 
+- [**Especialización de Ciberseguridad en Entornos de las Tecnologías de la Información (CETI)**](https://www.todofp.es/que-estudiar/familias-profesionales/informatica-comunicaciones/ce-ciberseguridad-entornos-tecnologias-informacion.html): Es un curso de especialización dirigido a titulados de  ciclos formativos superiores de Informática, es ideal para quienes buscan una formación sólida, practica y orientada al mundo laboral. Si quieres trabajar en ciberseguridad, como *Experto en Ciberseguridad*, *Auditor de Ciberseguridad*, *Consultor de Ciberseguridad*, *Perito Judicial* (Según los Art *340* y *457* de la [*Ley de Enjuiciamiento Civil*](https://www.boe.es/buscar/act.php?id=BOE-A-2000-323)) y *Hacker Ético* esta es tu titulación. Esta especialidad tiene un plan de formación como:
+    - **Análisis Forense Informático**: Técnicas para recopilar, preservar y analizar evidencia digital tras un incidente, buscando causas y culpables, con validez legal.
+    - **Bastionado de Redes y Sistemas**: Fortalecimiento de sistemas y redes eliminando servicios innecesarios, configuraciones por defecto y aplicando parches para reducir la superficie de ataque.
+    - **Hacking Ético**: Simulación de ataques maliciosos por profesionales (hackers éticos) para encontrar y corregir vulnerabilidades antes que atacantes reales, de forma legal.
+    - **Incidentes de Ciberseguridad**: Gestión de eventos que comprometen la confidencialidad, integridad o disponibilidad de sistemas (ataques, malware, etc.), desde la detección hasta la recuperación.
+    - **Normativa de Ciberseguridad**: Conjunto de leyes, regulaciones y estándares que obligan a cumplir buenas prácticas para proteger la información y sistemas.
+    - **Puesta en Producción Segura**: Proceso para asegurar que nuevos sistemas o aplicaciones se implementen siguiendo las mejores prácticas de seguridad desde el diseño, evitando introducir vulnerabilidades.
 - Cursos online especializados en Ciberseguridad.
 - Práctica con laboratorios de Hacking Ético, retos CTF (*Capture The Flag*) y plataformas de simulación de ataques y defensa.
 - Certificaciones reconocidas internacionalmente pueden ser muy útiles, aunque no imprescindibles de inicio.
@@ -69,6 +76,8 @@ Finalizado el grado, es posible especializarse aún más mediante másteres ofic
 
 Ambas rutas "*FP* y *Universidad*" conducen a competencias profesionales que responden a la alta demanda de la ciberseguridad en España. La FP destacada por su orientación práctica y rápida incorporación al mundo laboral, mientras que la universidad ofrece una base conceptual sólida y mayores posibilidades de progresión hacia puestos de mayor especialización o investigación. Elegir uno u otro camino dependerá del perfil, objetivos y preferencias de cada estudiante, sabiendo que ambos son altamente valorados por las empresas del entorno digital.
 
+El INCIBE, pone a tu disposición tres [catálogos formativos](https://www.incibe.es/incibe/formacion/catalogos-formacion-ciberseguridad) que te ayudarán a elegir la mejor opción para especializarte en ciberseguridad y acceder a un mercado laboral en pleno auge.
+
 **Certificaciones mas relevantes en el Ámbito de la Seguridad Ofensiva**
 
 Algunas de las certificaciones más relevantes en el ámbito de la seguridad ofensiva son:
@@ -80,13 +89,6 @@ Algunas de las certificaciones más relevantes en el ámbito de la seguridad ofe
 - **HTB CPTS (HackTheBox Certified Penetration Testing Specialist):** Certificación altamente práctica que evalúa las habilidades de pruebas de penetración de los candidatos, es una certificación creada por la plataforma HackThebox.
 - **PNPT (TCM Security Practical Network Penetration Tester):** Certificación práctica de pruebas de penetración creada por la empresa TCM Security.
 - **OSCP (Offensive Security Certified Professional):** Esta certificación posiblemente sea la más temida y codiciada en el sector por su nivel de dificultad; tambien es una de las que más inversión económica precisa para realizarla. Su lema "*Try Harder*", anima a aquellos que no han conseguido su objetivo a seguir intentándolo y nunca tirar la toalla.
-- [**Especialización de Ciberseguridad en Entornos de las Tecnologías de la Información (CETI)**](https://www.todofp.es/que-estudiar/familias-profesionales/informatica-comunicaciones/ce-ciberseguridad-entornos-tecnologias-informacion.html): Es un curso de especialización dirigido a titulados de  ciclos formativos superiores de Informática, es ideal para quienes buscan una formación sólida, practica y orientada al mundo laboral. Si quieres trabajar en ciberseguridad, como *Experto en Ciberseguridad*, *Auditor de Ciberseguridad*, *Consultor de Ciberseguridad*, *Perito Judicial* (Según los Art *340* y *457* de la [*Ley de Enjuiciamiento Civil*](https://www.boe.es/buscar/act.php?id=BOE-A-2000-323)) y *Hacker Ético* esta es tu titulación. Esta especialidad tiene un plan de formación como:
-    - **Análisis Forense Informático**: Técnicas para recopilar, preservar y analizar evidencia digital tras un incidente, buscando causas y culpables, con validez legal.
-    - **Bastionado de Redes y Sistemas**: Fortalecimiento de sistemas y redes eliminando servicios innecesarios, configuraciones por defecto y aplicando parches para reducir la superficie de ataque.
-    - **Hacking Ético**: Simulación de ataques maliciosos por profesionales (hackers éticos) para encontrar y corregir vulnerabilidades antes que atacantes reales, de forma legal.
-    - **Incidentes de Ciberseguridad**: Gestión de eventos que comprometen la confidencialidad, integridad o disponibilidad de sistemas (ataques, malware, etc.), desde la detección hasta la recuperación.
-    - **Normativa de Ciberseguridad**: Conjunto de leyes, regulaciones y estándares que obligan a cumplir buenas prácticas para proteger la información y sistemas.
-    - **Puesta en Producción Segura**: Proceso para asegurar que nuevos sistemas o aplicaciones se implementen siguiendo las mejores prácticas de seguridad desde el diseño, evitando introducir vulnerabilidades.
 
 Si está empezando en el *hacking ético* como me imagino, mi consejo es que no se obsesione con esto, el aprendizaje es largo y lleva su tiempo adquirir los conocimientos suficientes. Tómese su tiempo para ganar experiencia.
 
