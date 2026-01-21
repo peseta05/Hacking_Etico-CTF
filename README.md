@@ -92,7 +92,7 @@ Si está empezando en el *hacking ético* como me imagino, mi consejo es que no 
 
 **Recomendaciones de libros para iniciarse en el Hacking Ético**
 
-Tanto si estas empezando o quieres reforzar tus conocimientos en el mundo del hacking ético, una de las mejores formas de aprender es a través de libros bien estructurados y con contenidos alineados a la realidad del sector, Quiero recomendarte tres fuentes excelentes para formarte de manera solida, son las editoriales:
+Tanto si estás empezando o quieres reforzar tus conocimientos en el mundo del hacking ético, una de las mejores formas de aprender es a través de libros bien estructurados y con contenidos alineados a la realidad del sector, Quiero recomendarte tres fuentes excelentes para formarte de manera solida, son las editoriales:
 
 - [**Paraninfo**](https://www.paraninfo.es/).
 - [**RA-MA**](https://www.ra-ma.es/).
@@ -100,7 +100,7 @@ Tanto si estas empezando o quieres reforzar tus conocimientos en el mundo del ha
 
 Estas editoriales ofrecen libros muy completos sobre *ciberseguridad*, *hacking ético*, *pentesting*, y *fundamentos de redes*. Están orientados tanto a estudiantes de formación profesional, universitarios, como a autodidactas, e incluso a profesionales que quieren actualizarse.
 
-¿Por que los recomiendo?
+¿Por qué los recomiendo?
 - Están escritos por expertos del sector.
 - Tienen un enfoque práctico.
 - A menudo se adaptan a certificaciones oficiales (como CompTIA, LPI o Cisco).
