@@ -98,7 +98,7 @@ Tanto si estas empezando o quieres reforzar tus conocimientos en el mundo del ha
 - [**RA-MA**](https://www.ra-ma.es/).
 - [**0xWORD**](https://0xword.com/).
 
-Estas editoriales ofrecen libros muy completos sobre *ciberseguridad*, *hacking ético*, *pentesting*, y *fundamentos de redes*. Están orientados tanto a estudiantes de formación profesional como a autodidactas, e incluso a profesionales que quieren actualizarse.
+Estas editoriales ofrecen libros muy completos sobre *ciberseguridad*, *hacking ético*, *pentesting*, y *fundamentos de redes*. Están orientados tanto a estudiantes de formación profesional, universitarios, como a autodidactas, e incluso a profesionales que quieren actualizarse.
 
 ¿Por que los recomiendo?
 - Están escritos por expertos del sector.
