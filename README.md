@@ -21,7 +21,7 @@ Con un lenguaje instructivo se introduce al lector de forma secuencial en esta d
 - Definiciones, conceptos y tipos de análisis.
 - Técnicas de reconocimiento y herramientas útiles para el mismo.
 - Fase de enumeración y técnicas de obtención de información.
-- Explotación de sistemas y obtención e acceso utilizando la información conseguida en la fase de enumeración.
+- Explotación de sistemas y obtención de acceso utilizando la información conseguida en la fase de enumeración.
 - Obtención de información del equipo y de la red interna para tomar el control total del sistema.
 - Test de la seguridad de las redes WIFI.
 
