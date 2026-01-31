@@ -22,6 +22,8 @@ Antes de poner en practica cualquier técnica aquí descrita, asegúrate de cont
 - Conocimiento de la leyes y normativas aplicables en tu país.
 - Un objetivo legítimo relacionado con la mejora de la seguridad.
 
+**¡Recuerde!** *El desconocimiento de la ley no exime de responsabilidad*.
+
 El Hacking Ético consiste en la identificación y análisis de vulnerabilidades en sistemas únicamente con autorización previa y expresa del propietario del sistema. Todas las técnicas, herramientas y metodologías descritas en este repositorio deben utilizarse de forma legal, ética, y responsable, respetando en todo momento la legislación vigente y los derechos de terceros.
 
 Este repositorio rechaza cualquier actividad que vulnere la privacidad, la integridad de los sistemas o la confidencialidad de la información.
@@ -34,7 +36,7 @@ Al continuar navegando y leyendo este repositorio, aceptas este descargo de resp
 
 Si tu interés es formarte en Hacking Ético, te recomiendo hacerlo a través de laboratorios controlados, entornos de prueba (CTF), programas de bug bounty o certificaciones reconocidas en ciberseguridad.
 
-
 **Utiliza siempre el conocimiento con responsabilidad**. La mejor defensa comienza con la educación.
+
 
 
