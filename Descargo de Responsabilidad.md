@@ -1,12 +1,10 @@
 **Descargo de Responsabilidad**
 
-El contenido publicado en este repositorio tiene como único objetivo la **divulgación educativa y ética** de conocimientos relacionados con la *ciberseguridad*, *hacking ético* y *protección digital*.
+El contenido publicado en este repositorio tiene fines exclusivamente **educativos**, **informativos** y **formativos** en el ambito de la ciberseguridad y el hacking ético. En ningun caso debe interpretarse como asesoramiento legal, técnico o profesional.
 
 Toda la información publicada está destinada a promover *buenas prácticas de seguridad informática*, ayudar a usuarios y profesionales a **proteger sus sistemas**, y **no debe utilizarse para actividades ilegales** o **no autorizadas**.  
 
-**El autor de este repositorio no se hace responsable del mal uso de los contenidos aquí compartidos**. *Se recuerda que el acceso no autorizado a sistemas informáticos está penado por la ley*.
-
-En *España*, el [**Código Penal**](https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444) establece los supuestos en los que un hacker podría estar cometiendo un delito. Son de interés los artículos comprendidos *entre el 197 y el 201*, *especialmente el 197bis y el 197ter*, que se incorporan al código penal en el año 2015:
+El acceso no autorizado a sistemas informaticos, la interceptación de comunicaciones o la alteracion de datos pueden constituir delitos penales según la legislación vigente, en *España*, el [**Código Penal**](https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444) establece los supuestos en los que un hacker podría estar cometiendo un delito. Son de interés los artículos comprendidos *entre el 197 y el 201*, *especialmente el 197bis y el 197ter*, que se incorporan al código penal en el año 2015:
 
 - **Artículo 197bis**.
     - **1.** "*El que por cualquier medio o procedimiento, vulnerando las medidas de seguridad establecidas para impedirlo, y sin estar debidamente autorizado, acceda o facilite a otro el acceso al conjunto o una parte de un sistema de información o se mantenga en él en contra de la voluntad de quien tenga el legítimo derecho a excluirlo, será castigado con pena de prisión de seis meses a dos años*".
@@ -38,4 +36,5 @@ Si tu interés es formarte en Hacking Ético, te recomiendo hacerlo a través de
 
 
 **Utiliza siempre el conocimiento con responsabilidad**. La mejor defensa comienza con la educación.
+
 
