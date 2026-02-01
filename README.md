@@ -202,6 +202,22 @@ Para practicar y mejorar nuestras habilidades disponemos de multitud de entornos
 
 Los retos de captura la bandera o **Capture The Flag** (*CTF*) consisten en la obtención de un código oculto (*flag*) en el reto, que solo es accesible para aquellos que descubren la vulnerabilidad o el punto débil del reto. En este tipo de retos prima el resultado sobre el proceso, por lo que no hay que dar explicaciones de cómo se ha logrado resolver. Basta con obtener la bandera para demostrar que se tienen las habilidades que llevan a su resolución. Para evitar que puedan hacer trampas existen códigos de conductas que se deben respetar. El más importante es no hacer pública la solución a un reto, denominado *writeup* o *walkthrough*, hasta que el reto deje de estar activo.
 
+**¿Por que los CTF son la mejor vía para aprender Hacking Ético?**
+
+Aprender hacking Ético no consiste únicamente en estudiar teoría o memorizar herramientas: se trata de pensar como atacante para defender como profesional. En este contexto, los Capture The Flags (CTF) se han consolidado como una de las formas más efectivas, practicas y motivadoras para adquirir habilidades reales en ciberseguridad.
+
+Los CTF son competiciones o laboratorios gamificados donde los participantes deben resolver retos de seguridad informática como explotación de vulnerabilidades, análisis forense, criptografía, ingeniería inversa o pentesting web con el objetivo de obtener una "bandera (flags)". Este enfoque convierte el aprendizaje en una experiencia activa, muy cercana a situaciones del mundo real.
+
+Una de las principales ventajas de los CTF es que fomentan el aprendizaje práctico. En lugar de limitarse a leer sobre vulnerabilidades, el estudiante las explota en entornos controlados y legales, comprendiendo no solo el cómo, si no tambien el por qué de cada fallo de seguridad. Este aprendizaje basado en la práctica acelera la curva de conocimiento y fortalece la retención a largo plazo.
+
+Además, los CTF promueven una mentalidad analítica y creativa. Cada reto requiere observar, investigar, probar hipótesis y, muchas veces, pensar "fuera de la caja". Estás habilidades son esenciales para cualquier profesional del hacking ético, ya que los ataques reales rara vez siguen un manual paso a paso.
+
+Otro punto clave es su accesibilidad y progresión. Existen CTF para todos los niveles, desde principiantes hasta expertos, lo que permite aprender de forma gradual y medible. Varias plataformas ofrecen rutas de aprendizaje estructuradas que acompañan al usuario en su evolución técnica.
+
+Por ultimo, los CTF fomentan la comunidad y el aprendizaje colaborativo. Compartir soluciones, discutir enfoques y trabajar en equipo ayuda a desarrollar habilidades blandas tan importantes como la comunicación y el trabajo bajo presión, muy valoradas en el sector de la ciberseguridad.
+
+En conclusión, los CTF no solo enseñan hacking ético: entrenan la mente, fortalecen la ética profesional y preparan para escenarios reales. Por eso, hoy en día, son considerados una de las mejores puertas de entrada al mundo de la ciberseguridad.
+
 Existen numerosas plataformas de internet donde se puede practicar todo este tipo de retos, algunos de ellos son:
 
 - [**Atenea**](https://atenea.ccn-cert.cni.es/home): Plataforma creada por el CCN-CERT que tiene numerosos retos en distintas categorías. Además se pueden consultar todos los retos d años pasados. Tiene una sección "*Academia*" donde se explican conceptos teóricos y prácticos de las distintas disciplinas.
