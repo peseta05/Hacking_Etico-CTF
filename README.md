@@ -245,6 +245,8 @@ Otra VM vulnerable interesante es [Metasploitable3](https://github.com/rapid7/me
 
 Una vez configurado el laboratorio con la Máquina Virtual atacante y las Máquinas Virtuales vulnerables se puede comenzar a practicar. **¡¡¡Happy Hacking!!!**.
 
+Puedes ver la lista de mis soluciones, scripts y notas relacionadas con retos de *CTF* (Capture The Flag) haciendo click [**aquí**](https://github.com/peseta05/Hacking_Etico-CTF/blob/main/CTF%20Challenges%20%26%20Writeups.md).
+
 **Plataformas de Recompensas (Bug Bounty)**
 
 Un programa de recompensas (Bug Bounty) es un mecanismo por el que grandes empresas, fabricantes, etc..., pagan una cantidad económica a un hacker por reportar vulnerabilidades en sus sistemas o en su software. Es una forma de incentivar la búsqueda y descubrimiento de vulnerabilidades de manera ética para que sean reportadas antes de que caigan en malas manos.
@@ -259,5 +261,7 @@ Las empresas suelen gestionar sus programas de recompensas a través de las plat
 - [**HackerOne**](https://www.hackerone.com/bug-bounty-programs): Similar a la anterior, es una de las plataformas de recompensas más importantes con una lista de programas públicos muy extensa.
 - [**Intigriti**](https://www.intigriti.com/): Plataforma de recompensas de ámbito europeo cuya sede se encuentra en Bélgica. Financiada con fondos de la Unión Europea, también dispone de programas para evaluar la seguridad de las herramientas de la Comisión y otros organismos europeos.
 - [**Immunefi**](https://immunefi.com/): Esta plataforma de recompensas está enfocada a la protección de activos digitales y proyectos DeFi (Decentralized Finance) como monederos de criptomonedas o **smart contracts**, la conocida como Web3. Las cuantías que se pagan como recompensas son elevadas ya que un fallo de seguridad en esos sistemas puede llevar a la pérdida de grandes sumas de dinero.
+
+Puedes acceder al blog para ver los contenidos haciendo click [**aquí**](https://unhackeretico-notes.blogspot.com/).
 
 No dudes en volver de vez en cuando para ver nuevos *contenidos* sobre **ciberseguridad**. Este repositorio y el blog se irán actualizando progresivamente a medida que avance y adquiera nuevos conocimientos en el mundo del *hacking ético*. Mi objetivo es compartir lo que voy aprendiendo, desde lo mas básico hasta técnicas mas avanzadas.
