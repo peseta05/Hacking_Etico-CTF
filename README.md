@@ -50,6 +50,8 @@ Gestión y administración de bases de datos: Conocer los diferentes lenguajes d
 
 **Acceso a la Ciberseguridad a través de FP**
 
+La Formación Profesional se ha convertido en una de las mejores opciones para acceder al sector con garantías de empleabilidad. Gracias a la colaboración entre instituciones educativas, administraciones públicas y empresas privadas, se han desarrollado programas formativos alineados con las necesidades del mercado, combinando formación teórica con prácticas en entornos laborales reales.
+
 En España, para desarrollar una carrera en ciberseguridad, es fundamental contar con una base sólida en informática a través de estudios reglados como un ciclo formativo de Formación Profesional (FP), y combinarlo con formación autodidacta y práctica especializada.
 
 El itinerario académico oficial más habitual comienza con la FP, donde existen varias opciones:
