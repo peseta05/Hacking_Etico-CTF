@@ -188,6 +188,12 @@ Para llevar a cabo las labores de *pentesting* se necesita un buen arsenal de he
 
 - **[Kali Linux](https://www.kali.org/):** Distribución de seguridad basada en Debian desarrollada por la empresa *Offensive Security*. Dispone de numerosas opciones de instalación. Tambien dispone de un enorme repositorio de paquetes donde se incluyen nuevas herramientas con cada nueva versión, Lo que facilita la instalación automatizada de estas.
 - **[ParrotOS](https://parrotsec.org/):** Distribucion de seguridad basada en Debian. En 2022 comenzó una alianza con HackTheBox para mejorar su desarrollo e incluirla en la plataforma a través de la web.
+- [**TailsOS**](https://tails.net/index.es.html): Acrónimo de "*The Amnesic Incognito Live System*" es una distribución de Linux basada en Debian que se ejecuta desde una unidad USB o un DVD. Su objetivo principal es proporcionar a los usuarios una forma segura y anónima de utilizar Internet, minimizando las huellas digitales dejadas en el proceso. Las características clave son:
+    - **Privacidad y Anonimato**: Tails canaliza todo el tráfico a través de la red Tor, lo que garantiza el anonimato al ocultar la ubicación y la identidad del usuario.
+    - **Modo Amnésico**: Tails no almacena ninguna información de sesión después de apagar el sistema. Esto significa que no deja rastro en el dispositivo que estás utilizando, proporcionando un nivel adicional de seguridad.
+    - **Herramientas de Criptografía**: Tails viene con herramientas de cifrado integradas, como GnuPG, que permite a los usuarios cifrar y firmar digitalmente sus correos electrónicos y documentos.
+    - **Navegación Segura**: La combinación de Tor Browser y la configuración de seguridad predeterminada garantiza una experiencia de navegación segura y privada.
+    - **Uso Temporal de Hardware**: Tails está diseñado para ser utilizado en cualquier computadora sin dejar rastros en el hardware. Esto permite a los usuarios llevar su entorno seguro a donde vayan.
 - **[BlackArch](https://blackarch.org/):** Distribución de seguridad basada en Arch Linux con mas de 2800 herramientas en sus repositorios.
 - **[CommandoVM](https://github.com/mandiant/commando-vm):** Es un conjunto de herramientas para convertir el sistemas operativo Windows en una distribución de seguridad ofensiva. Creada por la empresa "*Mandiant*".
 
