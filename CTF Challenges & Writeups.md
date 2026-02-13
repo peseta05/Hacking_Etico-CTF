@@ -32,5 +32,7 @@ Mis soluciones *CTF* (Capture The Flag):
 - [x] [Máquina Loweb (Vulnyx)](https://unhackeretico-notes.blogspot.com/2026/01/maquina-loweb-vulnyx.html) - Low.
 - [x] [Máquina Fuser (Vulnyx)](https://unhackeretico-notes.blogspot.com/2026/01/maquina-fuser-vulnyx.html) - Low.
 - [x] [Máquina First (Vulnyx)](https://unhackeretico-notes.blogspot.com/2026/02/maquina-first-vulnyx.html) - Low.
-- Máquina Robot (Vulnyx) - Low.
+- [x] [Máquina Robot (Vulnyx)](https://unhackeretico-notes.blogspot.com/2026/02/maquina-robot-vulnyx.html) - Low.
+- Máquina Beginner (Vulnyx) - Low.
+
 
