@@ -36,6 +36,8 @@ Mis soluciones *CTF* (Capture The Flag):
 - [x] [Máquina Beginner (Vulnyx)](https://unhackeretico-notes.blogspot.com/2026/02/maquina-beginner-vulnyx.html) - Low.
 - [x] [Máquina Node (Vulnyx)](https://unhackeretico-notes.blogspot.com/2026/02/maquina-node-vulnyx.html) - Low.
 - [x] [Máquina Real (Vulnyx)](https://unhackeretico-notes.blogspot.com/2026/03/maquina-real-vulnyx.html) - Low.
-- Máquina Shock (Vulnyx) - Low.
+- [x] [Máquina Shock (Vulnyx)](https://unhackeretico-notes.blogspot.com/2026/03/maquina-shock-vulnyx.html) - Low.
+- Maquina Fing (Vulnyx) - Low.
+
 
 
