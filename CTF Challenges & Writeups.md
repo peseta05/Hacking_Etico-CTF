@@ -22,7 +22,7 @@ Mis soluciones *CTF* (Capture The Flag):
 - [x] [Máquina Plot (Vulnyx)](https://unhackeretico-notes.blogspot.com/2025/11/maquina-plot-vulnyx.html) - Low
 - [x] [Máquina Noob (Vulnyx)](https://unhackeretico-notes.blogspot.com/2025/11/maquina-noob-vulnyx.html) - Low
 - [x] [Máquina Lower (Vulnyx)](https://unhackeretico-notes.blogspot.com/2025/11/maquina-lower-vulnyx.html) - Low.
-- [x] [Máquina Lower2 (Vulnyx)](https://unhackeretico-notes.blogspot.com/2025/12/maquina-lower2-vulnyx.html)- Low.
+- [x] [Máquina Lower2 (Vulnyx)](https://unhackeretico-notes.blogspot.com/2025/12/maquina-lower2-vulnyx.html) - Low.
 - [x] [Máquina Deploy (Vulnyx)](https://unhackeretico-notes.blogspot.com/2025/12/maquina-deploy-vulnyx.html) - Low.
 - [x] [Máquina Lower3 (Vulnyx)](https://unhackeretico-notes.blogspot.com/2025/12/maquina-lower3-vulnyx.html) - Low.
 - [x] [Máquina Lower4 (Vulnyx)](https://unhackeretico-notes.blogspot.com/2025/12/maquina-lower4-vulnyx.html) - Low.
@@ -38,6 +38,7 @@ Mis soluciones *CTF* (Capture The Flag):
 - [x] [Máquina Real (Vulnyx)](https://unhackeretico-notes.blogspot.com/2026/03/maquina-real-vulnyx.html) - Low.
 - [x] [Máquina Shock (Vulnyx)](https://unhackeretico-notes.blogspot.com/2026/03/maquina-shock-vulnyx.html) - Low.
 - Maquina Fing (Vulnyx) - Low.
+
 
 
 
