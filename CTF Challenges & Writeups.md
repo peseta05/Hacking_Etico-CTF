@@ -38,7 +38,8 @@ Mis soluciones *CTF* (Capture The Flag):
 - [x] [Máquina Real (Vulnyx)](https://unhackeretico-notes.blogspot.com/2026/03/maquina-real-vulnyx.html) - Low.
 - [x] [Máquina Shock (Vulnyx)](https://unhackeretico-notes.blogspot.com/2026/03/maquina-shock-vulnyx.html) - Low.
 - [x] [Maquina Fing (Vulnyx)](https://unhackeretico-notes.blogspot.com/2026/03/maquina-fing-vulnyx.html) - Low.
-- Máquina Doctor (Vulnyx) - Low.
+- [x] [Máquina Doctor (Vulnyx)](https://unhackeretico-notes.blogspot.com/2026/03/maquina-doctor-vulnyx.html) - Low.
+- Máquina Alpine (Vulnyx) - Easy.
 
 
 
