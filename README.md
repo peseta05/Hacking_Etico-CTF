@@ -160,6 +160,7 @@ Las conferencias de seguridad que se organizan cada año son un punto de encuent
 - [**HaveIBeenPwned**](https://haveibeenpwned.com/): Es un sitio web que permite a los usuarios de Internet comprobar si sus datos personales se han visto comprometidos por violaciones de datos. El servicio recopila y analiza cientos de ficheros de bases de datos que contienen información sobre miles de millones de cuentas filtradas, y permite a los usuarios buscar su propia información introduciendo su nombre de usuario o dirección de correo electrónico.
 - [**Cuttly**](https://cutt.ly/es): Es una herramienta que convierte URL largas en enlaces más cortos y fáciles de gestionar, y redirige a los usuarios al destino original mientras realiza el seguimiento de clics, tráfico y rendimiento de los enlaces.
 - [**Whatcms**](https://whatcms.org/): Es una herramienta poderosa que ayuda a determinar el CMS de un sitio web dado.
+- [**W3Schools**](https://www.w3schools.com/): Es una plataforma líder centrada en la enseñanza gratuita de tecnologías web, ofreciendo tutoriales, ejercicios y un editor interactivo de código en el navegador.
 - [**Devdocs**](https://devdocs.io/): Es un navegador de documentación gratuito, de código abierto y optimizado para desarrolladores, que consolida la documentación de múltiples lenguajes de programación, librerías, frameworks y herramientas en una interfaz unificada, rápida y con capacidad de búsqueda instantánea.
 
 **Distribuciones para Pentesting**
