@@ -95,6 +95,7 @@ El INCIBE, pone a tu disposición tres [catálogos formativos](https://www.incib
 - **eJPT (eLearnSecurity Junior Penetration tester):** Esta certificación está enfocada a expertos de IT que comienzan en el area del pentesting; por tanto, es una certificación de nivel básico.
 - **eCPPT (eLearnSecurity Certified Professional Penetration Tester):** Certificación de nivel avanzado sobre test de intrusión.
 - **HTB CPTS (HackTheBox Certified Penetration Testing Specialist):** Certificación altamente práctica que evalúa las habilidades de pruebas de penetración de los candidatos, es una certificación creada por la plataforma HackThebox.
+- **HTB CWES (HackTheBox Certified Web Exploitation Specialist):** Certificación de ciberseguridad emitida por Hack The Box (HTB) Academy que valida habilidades de nivel intermedio en pentesting de aplicaciones web y procesos de bug bounty.
 - **PNPT (TCM Security Practical Network Penetration Tester):** Certificación práctica de pruebas de penetración creada por la empresa TCM Security.
 - **OSCP (Offensive Security Certified Professional):** Esta certificación posiblemente sea la más temida y codiciada en el sector por su nivel de dificultad; tambien es una de las que más inversión económica precisa para realizarla. Su lema "*Try Harder*", anima a aquellos que no han conseguido su objetivo a seguir intentándolo y nunca tirar la toalla.
 
