@@ -42,7 +42,8 @@ Mis soluciones *CTF* (Capture The Flag):
 - [x] [Máquina Alpine (Vulnyx)](https://unhackeretico-notes.blogspot.com/2026/04/maquina-alpine-vulnyx.html) - Easy.
 - [x] [Máquina Store (Vulnyx)](https://unhackeretico-notes.blogspot.com/2026/04/maquina-store-vulnyx.html) - Easy.
 - [x] [Máquina Explorer (Vulnyx)](https://unhackeretico-notes.blogspot.com/2026/04/maquina-explorer-vulnyx.html) - Easy.
-- Máquina External (Vulnyx) - Easy.
+- [x] [Máquina External (Vulnyx)](https://unhackeretico-notes.blogspot.com/2026/04/maquina-external-vulnyx.html) - Easy.
+- Máquina Service (Vulnyx) - Easy.
 
 
 
