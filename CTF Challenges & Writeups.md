@@ -46,7 +46,8 @@ Mis soluciones *CTF* (Capture The Flag):
 - [x] [Máquina Service (Vulnyx)](https://unhackeretico-notes.blogspot.com/2026/05/maquina-service-vulnyx.html) - Easy.
 - [x] [Máquina SRV (Vulnyx)](https://unhackeretico-notes.blogspot.com/2026/05/maquina-srv-vulnyx.html) - Easy.
 - [x] [Máquina Blog (Vulnyx)](https://unhackeretico-notes.blogspot.com/2026/05/maquina-blog-vulnyx.html) - Easy.
-- Máquina Druid (Vulnyx) - Easy.
+- [x] [Máquina Druid (Vulnyx)](https://unhackeretico-notes.blogspot.com/2026/05/maquina-druid-vulnyx.html) - Easy.
+- Máquina Fire (Vulnyx) - Easy.
 
 
 
