@@ -293,3 +293,7 @@ Las empresas suelen gestionar sus programas de recompensas a través de las plat
 Puedes acceder al blog para ver los contenidos haciendo click [**aquí**](https://unhackeretico-notes.blogspot.com/).
 
 No dudes en volver de vez en cuando para ver nuevos *contenidos* sobre **ciberseguridad**. Este repositorio y el blog se irán actualizando progresivamente a medida que avance y adquiera nuevos conocimientos en el mundo del *hacking ético*. Mi objetivo es compartir lo que voy aprendiendo, desde lo mas básico hasta técnicas mas avanzadas.
+
+**¡Llevemos el aprendizaje más allá del repositorio!**
+
+Si te apasiona el pentesting y quieres un espacio para resolver dudas en tiempo real, compartir herramientas y conectar con otros entusiastas del sector, súmate a nuestro grupo de [Telegram](https://t.me/+jTwMaut-z2NjMGQ0).
