@@ -68,9 +68,24 @@ El ciclo oficial es solo una base. Es fundamental complementar la formación con
     - **Incidentes de Ciberseguridad**: Gestión de eventos que comprometen la confidencialidad, integridad o disponibilidad de sistemas (ataques, malware, etc.), desde la detección hasta la recuperación.
     - **Normativa de Ciberseguridad**: Conjunto de leyes, regulaciones y estándares que obligan a cumplir buenas prácticas para proteger la información y sistemas.
     - **Puesta en Producción Segura**: Proceso para asegurar que nuevos sistemas o aplicaciones se implementen siguiendo las mejores prácticas de seguridad desde el diseño, evitando introducir vulnerabilidades.
-- Cursos online especializados en Ciberseguridad.
-- Práctica con laboratorios de Hacking Ético, retos CTF (*Capture The Flag*) y plataformas de simulación de ataques y defensa.
-- Certificaciones reconocidas internacionalmente pueden ser muy útiles, aunque no imprescindibles de inicio.
+- **Cursos online especializados en Ciberseguridad**: En el mundo hispanohablante destaca **Marcelo Vázquez**, alias **S4vitar**, quien cada dia en su canal de [Twitch](https://www.twitch.tv/s4vitaar) realiza directos explicando técnicas de hacking o explotando alguna maquina. Ha trabajado como Pentester en empresas de ciberseguridad como Eleven Paths, OneCyber y EnigmaSec, actualmente dirige su propia empresa de ciberseguridad QUBIT TECHNOLOGIES desde la que ofrece auditorias y formación especializada a empresas. En abril de 2023 lanzo el curso Introducción al hacking ético en su academia online [Hack4u](https://hack4u.io/cursos/) con mas de 50 horas de contenido, tambien ofrece una [hoja de ruta](https://docs.google.com/spreadsheets/u/0/d/1dzvaGlT_0xnT-PGO27Z_4prHgA8PHIpErmoWdlUrSoA/htmlview?usp=gmail&pli=1) dinámica para profesionales y principiantes que buscan formación práctica y teórica.
+- **Certificaciones reconocidas internacionalmente**: Pueden ser muy útiles, aunque no imprescindibles de inicio; algunas de ellas son:
+    - **CEH (EC Council Certified Ethical Hacker)**: Es una de las certificaciones más extendidas y demandadas, pero suele ser muy criticada por su bajo contenido práctico, aunque esto ha cambiado a partir de la versión 12 (CEHv12).
+    - **Pentest+**: Certificado de CompTIA (The Computing Techology Industry Association) con un nivel intermedio. A diferencia de otras certificaciones, esta incluye elementos de todas las fases de un test de intrusión.
+    - **eJPT (eLearnSecurity Junior Penetration tester)**: Esta certificación está enfocada a expertos de IT que comienzan en el área del pentesting; por tanto, es una certificación de nivel básico.
+    - **eWPT (eLearnSecurity Web Application Penetration Tester)**: Es una credencial de nivel profesional emitida por INE Security que valida habilidades prácticas en la auditoría y explotación de aplicaciones web.
+    - **eWPTX (eLearnSecurity Web Application Penetration Tester eXtreme)**: Es la credencial de nivel experto de INE Security diseñada para especialistas en seguridad web que buscan dominar técnicas de ataque avanzadas y evasión de defensas.
+    - **eCPPT (eLearnSecurity Certified Professional Penetration Tester)**: Certificación de nivel avanzado sobre test de intrusión.
+    - **eCPTX (eLearnSecurity Certified Penetration Tester eXtreme)**: Es una credencial de nivel experto emitida por INE Security que se enfoca en técnicas avanzadas de Red Teaming y ataques a infraestructuras de Active Directory (AD).
+    - **HTB CPTS (HackTheBox Certified Penetration Testing Specialist)**: Certificación altamente práctica que evalúa las habilidades de pruebas de penetración de los candidatos, es una certificación creada por la plataforma HackThebox.
+    - **HTB CWES (HackTheBox Certified Web Exploitation Specialist)**: Certificación de ciberseguridad emitida por Hack The Box (HTB) Academy que valida habilidades de nivel intermedio en pentesting de aplicaciones web y procesos de bug bounty.
+    - **PNPT (TCM Security Practical Network Penetration Tester)**: Certificación práctica de pruebas de penetración creada por la empresa TCM Security.
+    - **OSWP (OffSec Wireless Professional)**: Es la credencial de OffSec que valida habilidades prácticas en el ataque y aseguramiento de redes inalámbricas 802.11.
+    - **OSCP (Offensive Security Certified Professional)**: Esta certificación posiblemente sea la más temida y codiciada en el sector por su nivel de dificultad; también es una de las que más inversión económica precisa para realizarla. Su lema "Try Harder", anima a aquellos que no han conseguido su objetivo a seguir intentándolo y nunca tirar la toalla.
+    - **OSED (OffSec Exploit Developer)**: Es una credencial de nivel avanzado otorgada por OffSec (anteriormente Offensive Security) que valida habilidades críticas en la creación de exploits modernos en sistemas Windows.
+    - **OSWE (OffSec Web Expert)**: Es una credencial de nivel avanzado de OffSec que se especializa en la explotación avanzada de aplicaciones web mediante el análisis de código fuente (White Box).
+    - **OSEP (OffSec Experienced Penetration Tester)**: Es la credencial avanzada de OffSec diseñada para profesionales que ya dominan los fundamentos y desean especializarse en la evasión de defensas modernas y ataques a infraestructuras críticas empresariales.
+- **Práctica con laboratorios de Hacking Ético**: Retos CTF (*Capture The Flag*) y plataformas de simulación de ataques y defensa.
 
 **Acceso a la Ciberseguridad a través de la Universidad**
 
@@ -87,17 +102,6 @@ Finalizado el grado, es posible especializarse aún más mediante másteres ofic
 Ambas rutas "*FP* y *Universidad*" conducen a competencias profesionales que responden a la alta demanda de la ciberseguridad en España. La FP destacada por su orientación práctica y rápida incorporación al mundo laboral, mientras que la universidad ofrece una base conceptual sólida y mayores posibilidades de progresión hacia puestos de mayor especialización o investigación. Elegir uno u otro camino dependerá del perfil, objetivos y preferencias de cada estudiante, sabiendo que ambos son altamente valorados por las empresas del entorno digital.
 
 El INCIBE, pone a tu disposición tres [catálogos formativos](https://www.incibe.es/incibe/formacion/catalogos-formacion-ciberseguridad) que te ayudarán a elegir la mejor opción para especializarte en ciberseguridad y acceder a un mercado laboral en pleno auge.
-
-**Certificaciones reconocidas internacionalmente mas relevantes en el Ámbito de la Seguridad Ofensiva**
-
-- **CEH (EC Council Certified Etihical Hacker):** Es una de las certificaciones más extendidad y demandadas, pero suele ser muy criticada por su bajo contenido práctico, aunque esto ha cambiado a partir de la version 12 (CEHv12).
-- **Pentest+:** Certificado de CompTIA (The Computing Techology Industry Association) con un nivel intermedio. A diferencia de otras certificaciones, esta incluye elementos de todas las fases de un test de intrusión.
-- **eJPT (eLearnSecurity Junior Penetration tester):** Esta certificación está enfocada a expertos de IT que comienzan en el area del pentesting; por tanto, es una certificación de nivel básico.
-- **eCPPT (eLearnSecurity Certified Professional Penetration Tester):** Certificación de nivel avanzado sobre test de intrusión.
-- **HTB CPTS (HackTheBox Certified Penetration Testing Specialist):** Certificación altamente práctica que evalúa las habilidades de pruebas de penetración de los candidatos, es una certificación creada por la plataforma HackThebox.
-- **HTB CWES (HackTheBox Certified Web Exploitation Specialist):** Certificación de ciberseguridad emitida por Hack The Box (HTB) Academy que valida habilidades de nivel intermedio en pentesting de aplicaciones web y procesos de bug bounty.
-- **PNPT (TCM Security Practical Network Penetration Tester):** Certificación práctica de pruebas de penetración creada por la empresa TCM Security.
-- **OSCP (Offensive Security Certified Professional):** Esta certificación posiblemente sea la más temida y codiciada en el sector por su nivel de dificultad; tambien es una de las que más inversión económica precisa para realizarla. Su lema "*Try Harder*", anima a aquellos que no han conseguido su objetivo a seguir intentándolo y nunca tirar la toalla.
 
 Si está empezando en el *hacking ético* como me imagino, mi consejo es que no se obsesione con esto, el aprendizaje es largo y lleva su tiempo adquirir los conocimientos suficientes. Tómese su tiempo para ganar experiencia.
 
@@ -225,10 +229,9 @@ Por otro lado, existen plataformas orientadas principalmente a la resolución de
 - [**VulnHub**](https://www.vulnhub.com/): Es un repositorio de máquinas virtuales vulnerables creadas por la comunidad de acceso gratuito. Hay más de 700 laboratorios para descargar, normalmente en formato *OVA* (*VirtualBox*). Actualmente, el proyecto está promocionado por la empresa Offensive Security.
 - [**HackMyVM**](https://hackmyvm.eu/): Otro repositorio de máquinas virtuales vulnerables libres que se ha creado recientemente. Existe la opción de destacar las imágenes de forma anónima o registrarse en la plataforma para enviar las banderas obtenidas y registrar nuestro progreso. Hay más de 200 máquinas con tres niveles de dificultad: *fácil*, *media* y *difícil*.
 - [**Proving Grounds**](https://www.offsec.com/products/proving-grounds/): Plataforma creada por la empresa Offensive Security con dos versiones, **Play** (*gratuita*) y **Practice** (de *pago*). PG Play es una plataforma online que incluye las maquina de la plataforma VulnHub con tres horas diarias de acceso, mientras que PG Practice no tiene limitación de tiempo, incluye máquinas con SO Windows y máquinas especiales creadas por los expertos de la empresa.
-- [**TheHackersLabs**](https://thehackerslabs.com/).
-- [**Vulnyx**](https://vulnyx.com/).
-- [**DockerLabs**](https://dockerlabs.es/#/).
-- [**BugBountyLabs**](https://bugbountylabs.com/).
+- [**TheHackersLabs**](https://thehackerslabs.com/): Es una plataforma educativa de ciberseguridad y hacking ético enfocada en la práctica, que ofrece máquinas virtuales vulnerables para desarrollar habilidades de intrusión y escalada de privilegios. El entorno, destacado por su contenido en español, permite practicar diversos niveles de dificultad, desde principiante hasta avanzado, enfocado en preparaciones profesionales como **eJPT** o **OSCP**.
+- [**Vulnyx**](https://vulnyx.com/): Es una plataforma comunitaria de ciberseguridad que ofrece máquinas virtuales vulnerables para practicar hacking ético. Lanzada en 2023 por **d4t4s3c**, cuenta con más de 170 laboratorios, incluyendo entornos Linux y Windows, con dificultades que van de nivel bajo a alto.
+- [**DockerLabs**](https://dockerlabs.es/#/): Es una plataforma gratuita basada en la comunidad que ofrece laboratorios ligeros de Docker para practicar hacking ético y ciberseguridad, incluyendo niveles de dificultad que van desde muy fácil hasta difícil. El proyecto, impulsado por [El Pingüino de Mario](https://www.twitch.tv/elpinguinodemario), permite el despliegue rápido de máquinas vulnerables locales para intrusión, escalada de privilegios y hacking web.
 
 Es posible encontrar otras VM virtuales fuera de estas paginas, algunas de las cuales han sido desarrolladas por los creadores de la herramienta **Metasploit**. Por la cantidad de vulnerabilidades que presenta, a efectos didácticos y de asimilación de conceptos y metodología es interesante utilizar [Metasploitable2](https://sourceforge.net/projects/metasploitable/), teniendo en cuenta que muchas de sus vulnerabilidades son muy antiguas y no se van a encontrar en entornos reales a día de hoy.
 
