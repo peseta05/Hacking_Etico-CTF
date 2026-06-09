@@ -195,7 +195,7 @@ El objetivo es reunir en un mismo lugar materiales que resultan especialmente ú
 
 **Ingeniería Inversa y Análisis de Malware**
 
-    - [**IDA Pro (Interactive Disassembler Pro)**](https://hex-rays.com/): Es la herramienta estándar de la industria para la ingeniería inversa, el análisis de malware y la investigación de vulnerabilidades. Desarrollada por la empresa Hex-Rays, permite abrir un archivo ejecutable (código binario) y traducir los ceros y unos en un lenguaje de programación legible para los humanos, sin necesidad de tener el código fuente original.
+    - IDA Pro (Interactive Disassembler Pro)(https://hex-rays.com/): Es la herramienta estándar de la industria para la ingeniería inversa, el análisis de malware y la investigación de vulnerabilidades. Desarrollada por la empresa Hex-Rays, permite abrir un archivo ejecutable (código binario) y traducir los ceros y unos en un lenguaje de programación legible para los humanos, sin necesidad de tener el código fuente original.
     - [**Hopper Disassembler**](https://www.hopperapp.com/): Es una excelente alternativa a IDA Pro, diseñada específicamente para entornos macOS y Linux. Su principal ventaja es que ofrece funciones avanzadas de desensamblado y descompilación a una fracción del costo de IDA Pro, siendo una de las opciones favoritas para analistas centrados en ecosistemas de Apple.
 Strings: Es una herramienta que se utiliza para extraer cadenas de texto legibles desde archivos binarios.
 Frida: Es un popular framework de instrumentación binaria dinámica de código abierto utilizado por ingenieros inversos, analistas de malware y expertos en ciberseguridad para inspeccionar y modificar aplicaciones en tiempo real.
