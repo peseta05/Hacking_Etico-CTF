@@ -204,9 +204,9 @@ El objetivo es reunir en un mismo lugar materiales que resultan especialmente ú
 
 - **Reportes y Gestión de Vulnerabilidades**
 
-    - SysReptor: Es una plataforma de informes de pruebas de penetración totalmente personalizable, diseñada para pentesters, red teamers y otros profesionales de la ciberseguridad.
-    - Serpico: Es una herramienta de colaboración y generación de informes de pruebas de penetración. Fue desarrollada para reducir el tiempo necesario para redactar un informe de pruebas de penetración.
-    - Pentestify: Es un generador interactivo de reportes de seguridad que permite registrar vulnerabilidades (con plantillas predefinidas o manualmente), visualizar estadísticas de riesgo en tiempo real y exportar un informe corporativo estructurado en formato PDF.
+    - [**SysReptor**](https://github.com/Syslifters/sysreptor/): Es una plataforma de informes de pruebas de penetración totalmente personalizable, diseñada para pentesters, red teamers y otros profesionales de la ciberseguridad.
+    - [**Serpico**](https://github.com/BuffaloWill/Serpico): Es una herramienta de colaboración y generación de informes de pruebas de penetración. Fue desarrollada para reducir el tiempo necesario para redactar un informe de pruebas de penetración.
+    - [**Pentestify**](https://github.com/ccyl13/Pentestify): Es un generador interactivo de reportes de seguridad que permite registrar vulnerabilidades (con plantillas predefinidas o manualmente), visualizar estadísticas de riesgo en tiempo real y exportar un informe corporativo estructurado en formato PDF.
 
 - **Otros Recursos**
 
