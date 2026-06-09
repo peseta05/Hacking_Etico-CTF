@@ -193,7 +193,7 @@ El objetivo es reunir en un mismo lugar materiales que resultan especialmente ú
     - [**USB Rubber Ducky™**](https://docs.hak5.org/hak5-usb-rubber-ducky/usb-rubber-ducky-by-hak5/): Documentación oficial de este dispositivo de la marca I (2011) y II (2022), así como de su lenguaje de programación DuckyScript™ versión 1.0 (2011) y 3.0 (2022).
     - [**HardwareAllTheThings**](https://swisskyrepo.github.io/HardwareAllTheThings/): Es una colección de valiosas cargas útiles y técnicas de evasión diseñadas para la seguridad de hardware e IoT.
 
--**Ingeniería Inversa y Análisis de Malware**
+- **Ingeniería Inversa y Análisis de Malware**
 
     - IDA Pro (Interactive Disassembler Pro)(https://hex-rays.com/): Es la herramienta estándar de la industria para la ingeniería inversa, el análisis de malware y la investigación de vulnerabilidades. Desarrollada por la empresa Hex-Rays, permite abrir un archivo ejecutable (código binario) y traducir los ceros y unos en un lenguaje de programación legible para los humanos, sin necesidad de tener el código fuente original.
     - [**Hopper Disassembler**](https://www.hopperapp.com/): Es una excelente alternativa a IDA Pro, diseñada específicamente para entornos macOS y Linux. Su principal ventaja es que ofrece funciones avanzadas de desensamblado y descompilación a una fracción del costo de IDA Pro, siendo una de las opciones favoritas para analistas centrados en ecosistemas de Apple.
