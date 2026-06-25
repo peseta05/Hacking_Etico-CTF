@@ -50,7 +50,8 @@ Mis soluciones *CTF* (Capture The Flag):
 - [x] [Máquina Fire (Vulnyx)](https://unhackeretico-notes.blogspot.com/2026/06/maquina-fire-vulnyx.html) - Easy.
 - [x] [Máquina Load (Vulnyx)](https://unhackeretico-notes.blogspot.com/2026/06/maquina-load-vulnyx.html) - Easy.
 - [x] [Máquina Remote (Vulnyx)](https://unhackeretico-notes.blogspot.com/2026/06/maquina-remote-vulnyx.html) - Easy.
-- Máquina Twitx (Vulnyx) - Easy.
+- [x] [Máquina Twitx (Vulnyx)](https://unhackeretico-notes.blogspot.com/2026/06/maquina-twitx-vulnyx.html) - Easy.
+- Máquina YourWAF (Vulnyx) - Easy.
 
 
 
