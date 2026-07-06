@@ -2,7 +2,7 @@
 
 Este repositorio contiene mis soluciones, scripts y notas relacionadas con retos de *CTF* (Capture The Flag). El objetivo es practicar y mejorar habilidades en *Ciberseguridad*, *Hacking Ético* y *Pentesting*.
 
-Mis soluciones *CTF* (Capture The Flag):
+Mis soluciones *CTF* (Capture The Flag): *los writeups detallados se publicarán en el blog todos los Sábados a la 1 de la mañana*.
 - [x] [Máquina Shop (Vulnyx)](https://unhackeretico-notes.blogspot.com/2025/07/maquina-shop-vulnyx.html) - Easy.
 - [x] [Máquina Basic (Vulnyx)](https://unhackeretico-notes.blogspot.com/2025/08/maquina-basic-vulnyx.html) - Low.
 - [x] [Máquina Experience (Vulnyx)](https://unhackeretico-notes.blogspot.com/2025/08/maquina-experience-vulnyx.html) - Low.
