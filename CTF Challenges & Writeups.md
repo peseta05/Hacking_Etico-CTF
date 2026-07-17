@@ -54,6 +54,7 @@ Mis soluciones *CTF* (Capture The Flag):
 - [x] [Máquina YourWAF (Vulnyx)](https://unhackeretico-notes.blogspot.com/2026/07/maquina-yourwaf-vulnyx.html) - Easy.
 - [x] [Maquina Blind (Vulnyx)](https://unhackeretico-notes.blogspot.com/2026/07/maquina-blind-vulnyx.html) - Easy.
 - [x] [Máquina Memory (Vulnyx)](https://unhackeretico-notes.blogspot.com/2026/07/maquina-memory-vulnyx.html) - Easy.
-- Máquina Care (Vulnyx) - Easy.
+- [x] [Máquina Care (Vulnyx)](https://unhackeretico-notes.blogspot.com/2026/07/maquina-care-vulnyx.html) - Easy.
+- Máquina War (Vulnyx) - Easy.
 
 **Nota**: *los writeups detallados se publicarán en el blog todos los sábados a la 01:00 AM*.
