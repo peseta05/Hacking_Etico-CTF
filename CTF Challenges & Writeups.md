@@ -61,6 +61,7 @@ Mis soluciones *CTF* (Capture The Flag):
 - [x] [Máquina Observer (Vulnyx)](https://unhackeretico-notes.blogspot.com/2026/08/maquina-observer-vulnyx.html) - Easy.
 - [x] [Máquina Apex (Vulnyx)](https://unhackeretico-notes.blogspot.com/2026/09/maquina-apex-vulnyx.html) - Easy.
 - [x] [Máquina Open (Vulnyx)](https://unhackeretico-notes.blogspot.com/2026/09/maquina-open-vulnyx.html) - Easy.
-- Máquina Absolute (Vulnyx) - Easy.
+- [x] [Máquina Absolute (Vulnyx)](https://unhackeretico-notes.blogspot.com/2026/09/maquina-absolute-vulnyx.html) - Easy.
+- Máquina Sales (Vulnyx) - Easy.
 
 **Nota**: *los writeups detallados se publicarán en el blog todos los sábados a la 01:00 AM*.
