@@ -34,7 +34,7 @@ El autor no promueve, avala ni se responsabiliza del uso indebido, ilegal o mali
 
 Al continuar navegando y leyendo este repositorio, aceptas este descargo de responsabilidad y te comprometes a utilizar la información de manera ética, legal y profesional.
 
-Si tu interés es formarte en Hacking Ético, te recomiendo hacerlo a través de laboratorios controlados, entornos de prueba (CTF), programas de bug bounty o certificaciones reconocidas en ciberseguridad.
+Si tu interés es formarte en Hacking Ético, te recomiendo hacerlo a través de [laboratorios controlados o entornos de prueba (CTF)](https://unhackeretico-notes.blogspot.com/2025/06/creacion-de-un-laboratorio.html), programas de [bug bounty](https://unhackeretico-notes.blogspot.com/2025/10/plataformas-de-recompensas-bug-bounty.html) o [certificaciones reconocidas](https://unhackeretico-notes.blogspot.com/p/certificaciones-de-ciberseguridad.html) en ciberseguridad.
 
 **Utiliza siempre el conocimiento con responsabilidad**. La mejor defensa comienza con la educación.
 
