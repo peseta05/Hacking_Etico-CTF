@@ -66,6 +66,6 @@ Mis soluciones *CTF* (Capture The Flag):
 - [x] [Máquina Printer (Vulnyx)](https://unhackeretico-notes.blogspot.com/2026/10/maquina-printer-vulnyx.html) - Easy.
 - [x] [Máquina Slash (Vulnyx)](https://unhackeretico-notes.blogspot.com/2026/10/maquina-slash-vulnyx.html) - Easy.
 - [x] [Máquina Swamp (Vulnyx)](https://unhackeretico-notes.blogspot.com/2026/10/maquina-swamp-vulnyx.html) - Easy.
-- Máquina Hosting (Vulnyx) - Easy.
+<!-- - Máquina Hosting (Vulnyx) - Easy. -->
 
 **Nota**: *los writeups detallados se publicarán en el blog todos los sábados a la 01:00 AM*.
