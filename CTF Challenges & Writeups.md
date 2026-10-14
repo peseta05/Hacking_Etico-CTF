@@ -66,6 +66,41 @@ Mis soluciones *CTF* (Capture The Flag):
 - [x] [Máquina Printer (Vulnyx)](https://unhackeretico-notes.blogspot.com/2026/10/maquina-printer-vulnyx.html) - Easy.
 - [x] [Máquina Slash (Vulnyx)](https://unhackeretico-notes.blogspot.com/2026/10/maquina-slash-vulnyx.html) - Easy.
 - [x] [Máquina Swamp (Vulnyx)](https://unhackeretico-notes.blogspot.com/2026/10/maquina-swamp-vulnyx.html) - Easy.
-<!-- - Máquina Hosting (Vulnyx) - Easy. -->
+- Máquina Hosting (Vulnyx) - Easy. -->
+<!-- - Máquina Zone (Vulnyx) - Easy. -->
+<!-- - Máquina Brain (Vulnyx) - Easy. -->
+<!-- - Máquina Mailforge (Vulnyx) - Easy. -->
+<!-- - Máquina Northwing (Vulnyx) - Easy. -->
+<!-- - Máquina Automation (Vulnyx) - Easy. -->
+<!-- - Máquina Psymin (Vulnyx) - Easy. -->
+<!-- - Máquina Yadis (Vulnyx) - Easy. -->
+<!-- - Máquina Ober (Vulnyx) - Easy. -->
+<!-- - Máquina Call (Vulnyx) - Easy. -->
+<!-- - Máquina Hidden (Vulnyx) - Easy. -->
+<!-- - Máquina Hook (Vulnyx) - Easy. -->
+<!-- - Máquina Flash (Vulnyx) - Easy. -->
+<!-- - Máquina Method (Vulnyx) - Easy. -->
+<!-- - Máquina Cibercamp (Vulnyx) - Easy. -->
+<!-- - Máquina Send (Vulnyx) - Easy. -->
+<!-- - Máquina Lookup (Vulnyx) - Easy. -->
+<!-- - Máquina Bank (Vulnyx) - Easy. -->
+<!-- - Máquina ShadowBlocks (Vulnyx) - Easy. -->
+<!-- - Máquina Hit (Vulnyx) - Easy. -->
+<!-- - Máquina Carlam (Vulnyx) - Easy. -->
+<!-- - Máquina Goetia (Vulnyx) - Easy. -->
+<!-- - Máquina Magic (Vulnyx) - Easy. -->
+<!-- - Máquina Arpon (Vulnyx) - Easy. -->
+<!-- - Máquina Sun (Vulnyx) - Easy. -->
+<!-- - Máquina Plex (Vulnyx) - Easy. -->
+<!-- - Máquina Code (Vulnyx) - Easy. -->
+<!-- - Máquina Friends (Vulnyx) - Easy. -->
+<!-- - Máquina Dump (Vulnyx) - Easy. -->
+<!-- - Máquina Unit (Vulnyx) - Easy. -->
+<!-- - Máquina Air (Vulnyx) - Easy. -->
+<!-- - Máquina Ready (Vulnyx) - Easy. -->
+<!-- - Máquina Play (Vulnyx) - Easy. -->
+<!-- - Máquina Serve (Vulnyx) - Easy. -->
+<!-- - Máquina Misstep (Vulnyx) - Easy. -->
+<!-- - Máquina CraftFall (Vulnyx) - Easy. -->
 
 **Nota**: *los writeups detallados se publicarán en el blog todos los sábados a la 01:00 AM*.
