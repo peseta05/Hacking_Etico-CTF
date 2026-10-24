@@ -67,8 +67,8 @@ Mis soluciones *CTF* (Capture The Flag):
 - [x] [Máquina Slash (Vulnyx)](https://unhackeretico-notes.blogspot.com/2026/10/maquina-slash-vulnyx.html) - Easy.
 - [x] [Máquina Swamp (Vulnyx)](https://unhackeretico-notes.blogspot.com/2026/10/maquina-swamp-vulnyx.html) - Easy.
 - [x] [Máquina Hosting (Vulnyx)](https://unhackeretico-notes.blogspot.com/2026/10/maquina-hosting-vulnyx.html) - Easy.
-- Máquina Zone (Vulnyx) - Easy.
-<!-- - Máquina Brain (Vulnyx) - Easy. -->
+- [x] [Máquina Zone (Vulnyx)](https://unhackeretico-notes.blogspot.com/2026/10/maquina-zone-vulnyx.html) - Easy.
+- Máquina Brain (Vulnyx) - Easy.
 <!-- - Máquina Mailforge (Vulnyx) - Easy. -->
 <!-- - Máquina Northwing (Vulnyx) - Easy. -->
 <!-- - Máquina Automation (Vulnyx) - Easy. -->
