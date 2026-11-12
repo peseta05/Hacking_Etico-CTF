@@ -1,6 +1,6 @@
 # Repositorio del Curso de Especialización en Ciberseguridad en Entornos de las Tecnologías de la Información (CETI)
 
-Este repositorio contiene la documentación del curso de especialización en ciberseguridad.
+Este repositorio contiene toda la documentación del curso de especialización en ciberseguridad.
 
 ## Objetivo
 
