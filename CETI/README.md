@@ -1,8 +1,6 @@
 # Repositorio del Curso de Especialización en Ciberseguridad en Entornos de las Tecnologías de la Información (CETI)
 
-![Logo CETI](images/CETI.png)
-
-Este repositorio contiene la documentación, prácticas y tareas realizadas durante el curso de especialización en ciberseguridad.
+Este repositorio contiene la documentación del curso de especialización en ciberseguridad.
 
 ## Objetivo
 
@@ -12,14 +10,11 @@ Organizar y centralizar todos los contenidos desarrollados a lo largo de la form
 
 En este repositorio encontrarás:
 
-- 📄 Información del Modulo
 - 📄 Apuntes y documentación técnica  
-- 📄 Prácticas y ejercicios  
-- 📁 Recursos adicionales
 
 ## Uso del repositorio
 
-Puedes navegar por las carpetas para acceder a los contenidos organizados por asignatura. Cada sección incluye documentación y ejercicios relacionados.
+Puedes navegar por las carpetas para acceder a los contenidos organizados por asignatura. Cada sección incluye la documentación relacionada.
 
 ## Información del Modulo
 
@@ -31,12 +26,12 @@ Puedes navegar por las carpetas para acceder a los contenidos organizados por as
 
 Las materias incluidas en esta especialidad son:
 
-- 🔐 [**Puesta en Producción Segura**](./Puesta-en-Produccion-Segura/)
-- 🕵️ [**Análisis Forense Informático**](./Analisis-Forense-Informatico/)
-- 📜 [**Normativa de Ciberseguridad**](./Normativa-de-Ciberseguridad/)
-- 🛠️ [**Incidentes de Ciberseguridad**](./Incidentes-de-Ciberseguridad/)
-- 🛡️ [**Bastionado de Redes y Sistemas**](./Bastionado-de-Redes-y-Sistemas/)
-- 💻 [**Hacking Ético**](./Hacking-Etico/)
+- 🔐 [**Puesta en Producción Segura**](./Puesta%20en%20Producción%20Segura/)
+- 🕵️ [**Análisis Forense Informático**](./Análisis%20Forense%20Informático/)
+- 📜 [**Normativa de Ciberseguridad**](./Normativa%20de%20Ciberseguridad/)
+- 🛠️ [**Incidentes de Ciberseguridad**](./Incidentes%20de%20Ciberseguridad/)
+- 🛡️ [**Bastionado de Redes y Sistemas**](./Bastionado%20de%20Redes%20y%20Sistemas/)
+- 💻 [**Hacking Ético**](./Hacking%20Ético/)
 
 ## Requisitos de acceso
 
@@ -83,11 +78,3 @@ Consulta el resto de competencias en el [Real Decreto de establecimiento de este
 [Suplemento Europass Español](https://www.todofp.es/dam/jcr%3A766bd262-0bd5-47fc-9da1-2fc75f58fe2e/ce-gs-ciberseguridad-entornos-tecnologias-de-la-informacion.pdf)
 
 [Suplemento Europass Inglés](https://www.todofp.es/dam/jcr%3A259e09a4-d6b6-484d-acbd-02a898590f49/ce-gs-ciberseguridad-entornos-tecnologias-de-la-informacion.pdf)
-
-## Notas
-
-Este contenido está orientado al aprendizaje de ciberseguridad en entornos controlados y autorizados, y no debe ser utilizado fuera de dichos contextos.
-
-Cada usuario es responsable de conocer y respetar la legislación vigente aplicable en su país o entorno de trabajo. El uso indebido, no autorizado o con fines ilícitos de la información aquí expuesta será responsabilidad **única y exclusiva del usuario**, quedando exento el autor de cualquier uso inapropiado del mismo.
-
----
