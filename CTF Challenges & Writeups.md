@@ -71,8 +71,8 @@ Mis soluciones *CTF* (Capture The Flag):
 - [x] [Máquina Brain (Vulnyx)](https://unhackeretico-notes.blogspot.com/2026/11/maquina-brain-vulnyx.html) - Easy.
 - [x] [Máquina Mailforge (Vulnyx)](https://unhackeretico-notes.blogspot.com/2026/11/maquina-mailforge-vulnyx.html) - Easy.
 - [x] [Máquina Northwing (Vulnyx)](https://unhackeretico-notes.blogspot.com/2026/11/maquina-northwing-vulnyx.html) - Easy.
-- Máquina Automation (Vulnyx) - Easy.
-<!-- - Máquina Psymin (Vulnyx) - Easy. -->
+- [x] [Máquina Automation (Vulnyx)](https://unhackeretico-notes.blogspot.com/2026/11/maquina-automation-vulnyx.html) - Easy.
+- Máquina Psymin (Vulnyx) - Easy.
 <!-- - Máquina Yadis (Vulnyx) - Easy. -->
 <!-- - Máquina Ober (Vulnyx) - Easy. -->
 <!-- - Máquina Call (Vulnyx) - Easy. -->
